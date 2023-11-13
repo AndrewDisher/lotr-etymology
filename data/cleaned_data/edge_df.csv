@@ -1,0 +1,4391 @@
+"from","to","Frequency"
+"Arabic","Akkadian",1
+"French","Akkadian",1
+"Greek","Akkadian",1
+"Hebrew","Akkadian",1
+"Latin","Akkadian",1
+"Old English","Akkadian",1
+"Old French","Akkadian",1
+"Semitic","Akkadian",1
+"Arabic","Albanian",1
+"Armenian","Albanian",2
+"Avestan","Albanian",2
+"Carib","Albanian",1
+"Celtic","Albanian",2
+"Chinese","Albanian",1
+"Church Slavonic","Albanian",4
+"Croatian","Albanian",1
+"Czech","Albanian",1
+"Danish","Albanian",1
+"Dutch","Albanian",10
+"French","Albanian",7
+"Frisian","Albanian",4
+"Ga","Albanian",2
+"Gaelic","Albanian",2
+"Georgian","Albanian",1
+"German","Albanian",12
+"Germanic","Albanian",10
+"Gothic","Albanian",6
+"Greek","Albanian",11
+"Hebrew","Albanian",2
+"Hittite","Albanian",1
+"Hungarian","Albanian",1
+"Indo-European","Albanian",2
+"Irish","Albanian",4
+"Italian","Albanian",4
+"Kru","Albanian",1
+"Latin","Albanian",12
+"Latvian","Albanian",2
+"Lithuanian","Albanian",7
+"Middle Dutch","Albanian",4
+"Middle English","Albanian",6
+"Old Church Slavonic","Albanian",4
+"Old English","Albanian",11
+"Old French","Albanian",5
+"Old High German","Albanian",9
+"Old Irish","Albanian",4
+"Old Norse","Albanian",6
+"Old Persian","Albanian",1
+"Persian","Albanian",2
+"Polish","Albanian",3
+"Romance","Albanian",1
+"Russian","Albanian",7
+"Sanskrit","Albanian",6
+"Semitic","Albanian",1
+"Slavic","Albanian",2
+"Spanish","Albanian",3
+"Swedish","Albanian",2
+"Welsh","Albanian",4
+"Akkadian","Arabic",1
+"Albanian","Arabic",1
+"Armenian","Arabic",1
+"Berber","Arabic",1
+"Breton","Arabic",1
+"Bulgarian","Arabic",1
+"Catalan","Arabic",4
+"Chinese","Arabic",1
+"Church Slavonic","Arabic",3
+"Danish","Arabic",1
+"Dutch","Arabic",4
+"Egyptian","Arabic",1
+"Finnish","Arabic",1
+"French","Arabic",21
+"Frisian","Arabic",3
+"Ga","Arabic",4
+"Gaelic","Arabic",2
+"Georgian","Arabic",1
+"German","Arabic",8
+"Germanic","Arabic",4
+"Gothic","Arabic",1
+"Greek","Arabic",8
+"Hebrew","Arabic",4
+"Hittite","Arabic",1
+"Hungarian","Arabic",1
+"Indo-European","Arabic",3
+"Irish","Arabic",5
+"Italian","Arabic",12
+"Latin","Arabic",16
+"Lithuanian","Arabic",2
+"Malay","Arabic",1
+"Mandar","Arabic",1
+"Middle English","Arabic",4
+"Occitan","Arabic",1
+"Old Church Slavonic","Arabic",3
+"Old English","Arabic",5
+"Old French","Arabic",12
+"Old High German","Arabic",3
+"Old Irish","Arabic",3
+"Old Norse","Arabic",3
+"Persian","Arabic",3
+"Polish","Arabic",3
+"Portuguese","Arabic",2
+"Provençal","Arabic",4
+"Russian","Arabic",8
+"Sanskrit","Arabic",1
+"Semitic","Arabic",4
+"Slavic","Arabic",2
+"Spanish","Arabic",15
+"Turkish","Arabic",2
+"Welsh","Arabic",4
+"Croatian","Aramaic",1
+"Dutch","Aramaic",1
+"French","Aramaic",4
+"German","Aramaic",2
+"Greek","Aramaic",3
+"Hebrew","Aramaic",2
+"Hungarian","Aramaic",1
+"Iranian","Aramaic",1
+"Irish","Aramaic",1
+"Italian","Aramaic",3
+"Latin","Aramaic",3
+"Lithuanian","Aramaic",1
+"Old English","Aramaic",2
+"Old French","Aramaic",2
+"Old High German","Aramaic",1
+"Old Persian","Aramaic",1
+"Persian","Aramaic",1
+"Polish","Aramaic",1
+"Russian","Aramaic",1
+"Semitic","Aramaic",2
+"Spanish","Aramaic",2
+"Swedish","Aramaic",1
+"Turkish","Aramaic",1
+"Welsh","Aramaic",1
+"Breton","Arawak",1
+"Carib","Arawak",1
+"French","Arawak",1
+"German","Arawak",1
+"Haitian","Arawak",1
+"Portuguese","Arawak",1
+"Spanish","Arawak",1
+"Tai","Arawak",1
+"Albanian","Armenian",2
+"Arabic","Armenian",1
+"Avestan","Armenian",4
+"Breton","Armenian",2
+"Celtic","Armenian",2
+"Church Slavonic","Armenian",9
+"Danish","Armenian",5
+"Dutch","Armenian",14
+"French","Armenian",9
+"Frisian","Armenian",11
+"Ga","Armenian",1
+"Gaelic","Armenian",1
+"Georgian","Armenian",2
+"German","Armenian",16
+"Germanic","Armenian",15
+"Gothic","Armenian",8
+"Greek","Armenian",17
+"Hebrew","Armenian",2
+"Hittite","Armenian",5
+"Indo-European","Armenian",4
+"Irish","Armenian",10
+"Italian","Armenian",1
+"Japanese","Armenian",1
+"Latin","Armenian",19
+"Lithuanian","Armenian",13
+"Middle Dutch","Armenian",7
+"Middle English","Armenian",12
+"Middle Irish","Armenian",1
+"Old Church Slavonic","Armenian",9
+"Old English","Armenian",20
+"Old French","Armenian",8
+"Old High German","Armenian",12
+"Old Irish","Armenian",8
+"Old Norse","Armenian",12
+"Persian","Armenian",2
+"Polish","Armenian",2
+"Russian","Armenian",5
+"Sanskrit","Armenian",14
+"Semitic","Armenian",2
+"Slavic","Armenian",1
+"Spanish","Armenian",2
+"Swedish","Armenian",5
+"Welsh","Armenian",8
+"Malay","Austronesian",1
+"Albanian","Avestan",2
+"Armenian","Avestan",4
+"Breton","Avestan",3
+"Celtic","Avestan",2
+"Church Slavonic","Avestan",31
+"Danish","Avestan",15
+"Delaware","Avestan",1
+"Dutch","Avestan",40
+"Flemish","Avestan",1
+"French","Avestan",18
+"Frisian","Avestan",36
+"Ga","Avestan",2
+"German","Avestan",47
+"Germanic","Avestan",45
+"Gothic","Avestan",32
+"Greek","Avestan",38
+"Hittite","Avestan",4
+"Indo-European","Avestan",6
+"Iranian","Avestan",1
+"Irish","Avestan",26
+"Italian","Avestan",4
+"Japanese","Avestan",1
+"Korean","Avestan",1
+"Latin","Avestan",40
+"Lithuanian","Avestan",30
+"Low German","Avestan",4
+"Middle Dutch","Avestan",21
+"Middle English","Avestan",19
+"Middle Irish","Avestan",4
+"Old Church Slavonic","Avestan",31
+"Old English","Avestan",47
+"Old French","Avestan",7
+"Old High German","Avestan",37
+"Old Irish","Avestan",20
+"Old Norse","Avestan",42
+"Old Persian","Avestan",4
+"Persian","Avestan",7
+"Polish","Avestan",6
+"Russian","Avestan",15
+"Sanskrit","Avestan",41
+"Slavic","Avestan",2
+"Spanish","Avestan",5
+"Swedish","Avestan",12
+"Welsh","Avestan",18
+"Breton","Basque",1
+"Celtic","Basque",1
+"Church Slavonic","Basque",1
+"Dutch","Basque",1
+"French","Basque",1
+"Frisian","Basque",1
+"Ga","Basque",1
+"Gaelic","Basque",1
+"German","Basque",2
+"Germanic","Basque",2
+"Gothic","Basque",1
+"Icelandic","Basque",1
+"Irish","Basque",1
+"Latin","Basque",1
+"Lithuanian","Basque",1
+"Middle Dutch","Basque",1
+"Middle English","Basque",1
+"Old Church Slavonic","Basque",1
+"Old English","Basque",2
+"Old French","Basque",1
+"Old High German","Basque",1
+"Old Norse","Basque",2
+"Polish","Basque",1
+"Russian","Basque",1
+"Slavic","Basque",1
+"Welsh","Basque",1
+"Arabic","Berber",1
+"Breton","Berber",1
+"Bulgarian","Berber",1
+"Church Slavonic","Berber",1
+"Dutch","Berber",1
+"Finnish","Berber",1
+"French","Berber",1
+"Frisian","Berber",1
+"Ga","Berber",1
+"Gaelic","Berber",1
+"German","Berber",1
+"Germanic","Berber",1
+"Greek","Berber",1
+"Indo-European","Berber",1
+"Irish","Berber",1
+"Italian","Berber",1
+"Latin","Berber",1
+"Lithuanian","Berber",1
+"Old Church Slavonic","Berber",1
+"Old English","Berber",1
+"Old High German","Berber",1
+"Old Irish","Berber",1
+"Old Norse","Berber",1
+"Polish","Berber",1
+"Russian","Berber",1
+"Slavic","Berber",1
+"Spanish","Berber",1
+"Welsh","Berber",1
+"Arabic","Breton",1
+"Arawak","Breton",1
+"Armenian","Breton",2
+"Avestan","Breton",3
+"Basque","Breton",1
+"Berber","Breton",1
+"Bulgarian","Breton",1
+"Carib","Breton",1
+"Celtic","Breton",7
+"Church Slavonic","Breton",7
+"Cornish","Breton",2
+"Danish","Breton",3
+"Delaware","Breton",1
+"Dutch","Breton",12
+"Finnish","Breton",1
+"Flemish","Breton",2
+"French","Breton",16
+"Frisian","Breton",8
+"Ga","Breton",6
+"Gaelic","Breton",3
+"German","Breton",19
+"Germanic","Breton",17
+"Gothic","Breton",8
+"Greek","Breton",10
+"Haitian","Breton",1
+"Hebrew","Breton",1
+"Hittite","Breton",2
+"Icelandic","Breton",1
+"Indo-European","Breton",3
+"Irish","Breton",18
+"Italian","Breton",3
+"Japanese","Breton",1
+"Latin","Breton",19
+"Lithuanian","Breton",6
+"Low German","Breton",2
+"Manx","Breton",1
+"Middle Dutch","Breton",9
+"Middle English","Breton",8
+"Middle High German","Breton",1
+"Middle Irish","Breton",2
+"Old Church Slavonic","Breton",7
+"Old English","Breton",19
+"Old French","Breton",9
+"Old High German","Breton",15
+"Old Irish","Breton",13
+"Old Norse","Breton",13
+"Persian","Breton",1
+"Polish","Breton",2
+"Portuguese","Breton",2
+"Russian","Breton",3
+"Sanskrit","Breton",7
+"Slavic","Breton",1
+"Spanish","Breton",5
+"Swedish","Breton",1
+"Tai","Breton",1
+"Welsh","Breton",19
+"Arabic","Bulgarian",1
+"Berber","Bulgarian",1
+"Breton","Bulgarian",1
+"Church Slavonic","Bulgarian",1
+"Dutch","Bulgarian",1
+"Finnish","Bulgarian",1
+"French","Bulgarian",1
+"Frisian","Bulgarian",1
+"Ga","Bulgarian",1
+"Gaelic","Bulgarian",1
+"German","Bulgarian",1
+"Germanic","Bulgarian",1
+"Greek","Bulgarian",1
+"Indo-European","Bulgarian",1
+"Irish","Bulgarian",1
+"Italian","Bulgarian",1
+"Latin","Bulgarian",1
+"Lithuanian","Bulgarian",1
+"Old Church Slavonic","Bulgarian",1
+"Old English","Bulgarian",1
+"Old High German","Bulgarian",1
+"Old Irish","Bulgarian",1
+"Old Norse","Bulgarian",1
+"Polish","Bulgarian",1
+"Russian","Bulgarian",1
+"Slavic","Bulgarian",1
+"Spanish","Bulgarian",1
+"Welsh","Bulgarian",1
+"Albanian","Carib",1
+"Arawak","Carib",1
+"Breton","Carib",1
+"Dutch","Carib",1
+"French","Carib",1
+"German","Carib",2
+"Germanic","Carib",1
+"Greek","Carib",2
+"Haitian","Carib",1
+"Latin","Carib",2
+"Middle Dutch","Carib",1
+"Middle English","Carib",1
+"Old English","Carib",2
+"Old High German","Carib",1
+"Old Norse","Carib",1
+"Portuguese","Carib",1
+"Russian","Carib",1
+"Slavic","Carib",1
+"Spanish","Carib",1
+"Tai","Carib",1
+"Arabic","Catalan",4
+"Church Slavonic","Catalan",1
+"Danish","Catalan",2
+"Dutch","Catalan",3
+"French","Catalan",12
+"Ga","Catalan",3
+"German","Catalan",6
+"Germanic","Catalan",4
+"Gothic","Catalan",1
+"Greek","Catalan",2
+"Icelandic","Catalan",1
+"Indo-European","Catalan",2
+"Italian","Catalan",12
+"Japanese","Catalan",1
+"Latin","Catalan",10
+"Lithuanian","Catalan",1
+"Middle Dutch","Catalan",1
+"Middle English","Catalan",3
+"Norwegian","Catalan",1
+"Occitan","Catalan",1
+"Old Church Slavonic","Catalan",1
+"Old English","Catalan",2
+"Old French","Catalan",10
+"Old High German","Catalan",1
+"Old Norse","Catalan",1
+"Persian","Catalan",1
+"Portuguese","Catalan",4
+"Provençal","Catalan",5
+"Russian","Catalan",1
+"Spanish","Catalan",10
+"Swedish","Catalan",2
+"Albanian","Celtic",2
+"Armenian","Celtic",2
+"Avestan","Celtic",2
+"Basque","Celtic",1
+"Breton","Celtic",7
+"Church Slavonic","Celtic",5
+"Coptic","Celtic",1
+"Cornish","Celtic",5
+"Croatian","Celtic",1
+"Danish","Celtic",12
+"Dutch","Celtic",23
+"Egyptian","Celtic",1
+"French","Celtic",37
+"Frisian","Celtic",14
+"Ga","Celtic",19
+"Gaelic","Celtic",8
+"German","Celtic",36
+"Germanic","Celtic",28
+"Gothic","Celtic",12
+"Greek","Celtic",14
+"Hebrew","Celtic",2
+"Hungarian","Celtic",1
+"Indo-European","Celtic",4
+"Irish","Celtic",25
+"Italian","Celtic",14
+"Japanese","Celtic",1
+"Latin","Celtic",35
+"Latvian","Celtic",1
+"Lithuanian","Celtic",5
+"Low German","Celtic",2
+"Manx","Celtic",1
+"Middle Dutch","Celtic",15
+"Middle English","Celtic",23
+"Middle High German","Celtic",6
+"Middle Irish","Celtic",3
+"Norwegian","Celtic",1
+"Old Church Slavonic","Celtic",5
+"Old English","Celtic",34
+"Old French","Celtic",31
+"Old High German","Celtic",20
+"Old Irish","Celtic",15
+"Old Norse","Celtic",26
+"Old Provençal","Celtic",2
+"Persian","Celtic",1
+"Polish","Celtic",3
+"Portuguese","Celtic",2
+"Provençal","Celtic",3
+"Romance","Celtic",2
+"Russian","Celtic",3
+"Sanskrit","Celtic",5
+"Slavic","Celtic",4
+"Spanish","Celtic",12
+"Swedish","Celtic",7
+"Welsh","Celtic",18
+"Albanian","Chinese",1
+"Arabic","Chinese",1
+"Church Slavonic","Chinese",3
+"Dutch","Chinese",4
+"French","Chinese",6
+"Frisian","Chinese",2
+"German","Chinese",7
+"Germanic","Chinese",5
+"Gothic","Chinese",2
+"Greek","Chinese",7
+"Indo-European","Chinese",2
+"Italian","Chinese",2
+"Japanese","Chinese",1
+"Korean","Chinese",1
+"Latin","Chinese",5
+"Lithuanian","Chinese",3
+"Malay","Chinese",1
+"Manchu","Chinese",1
+"Mandar","Chinese",1
+"Middle Dutch","Chinese",2
+"Middle English","Chinese",4
+"Mongo","Chinese",1
+"Mongolian","Chinese",1
+"Nahuatl","Chinese",1
+"Old Church Slavonic","Chinese",3
+"Old English","Chinese",8
+"Old French","Chinese",5
+"Old High German","Chinese",4
+"Old Norse","Chinese",4
+"Old Persian","Chinese",2
+"Persian","Chinese",3
+"Portuguese","Chinese",1
+"Russian","Chinese",3
+"Sanskrit","Chinese",1
+"Slavic","Chinese",1
+"Spanish","Chinese",2
+"Turkish","Chinese",1
+"Albanian","Church Slavonic",4
+"Arabic","Church Slavonic",3
+"Armenian","Church Slavonic",9
+"Avestan","Church Slavonic",31
+"Basque","Church Slavonic",1
+"Berber","Church Slavonic",1
+"Breton","Church Slavonic",7
+"Bulgarian","Church Slavonic",1
+"Catalan","Church Slavonic",1
+"Celtic","Church Slavonic",5
+"Chinese","Church Slavonic",3
+"Cornish","Church Slavonic",1
+"Croatian","Church Slavonic",3
+"Czech","Church Slavonic",2
+"Danish","Church Slavonic",39
+"Delaware","Church Slavonic",1
+"Dutch","Church Slavonic",120
+"Egyptian","Church Slavonic",1
+"Estonian","Church Slavonic",1
+"Finnish","Church Slavonic",7
+"Flemish","Church Slavonic",1
+"French","Church Slavonic",45
+"Frisian","Church Slavonic",93
+"Ga","Church Slavonic",5
+"Gaelic","Church Slavonic",3
+"Georgian","Church Slavonic",1
+"German","Church Slavonic",156
+"Germanic","Church Slavonic",148
+"Gothic","Church Slavonic",81
+"Greek","Church Slavonic",91
+"Hebrew","Church Slavonic",3
+"Hittite","Church Slavonic",10
+"Hungarian","Church Slavonic",1
+"Icelandic","Church Slavonic",4
+"Indo-European","Church Slavonic",22
+"Iranian","Church Slavonic",2
+"Irish","Church Slavonic",59
+"Italian","Church Slavonic",14
+"Japanese","Church Slavonic",1
+"Korean","Church Slavonic",2
+"Kru","Church Slavonic",1
+"Latin","Church Slavonic",113
+"Lithuanian","Church Slavonic",109
+"Low German","Church Slavonic",18
+"Manchu","Church Slavonic",1
+"Middle Dutch","Church Slavonic",66
+"Middle English","Church Slavonic",73
+"Middle High German","Church Slavonic",3
+"Middle Irish","Church Slavonic",9
+"Mongo","Church Slavonic",1
+"Mongolian","Church Slavonic",1
+"Nahuatl","Church Slavonic",1
+"Norwegian","Church Slavonic",2
+"Old Church Slavonic","Church Slavonic",169
+"Old English","Church Slavonic",158
+"Old French","Church Slavonic",23
+"Old High German","Church Slavonic",123
+"Old Irish","Church Slavonic",44
+"Old Norse","Church Slavonic",117
+"Old Persian","Church Slavonic",10
+"Ossetian","Church Slavonic",1
+"Persian","Church Slavonic",15
+"Polish","Church Slavonic",13
+"Portuguese","Church Slavonic",1
+"Russian","Church Slavonic",55
+"Sanskrit","Church Slavonic",75
+"Semitic","Church Slavonic",2
+"Slavic","Church Slavonic",21
+"Slovak","Church Slavonic",1
+"Spanish","Church Slavonic",17
+"Swedish","Church Slavonic",27
+"Welsh","Church Slavonic",35
+"Celtic","Coptic",1
+"Dutch","Coptic",1
+"Egyptian","Coptic",2
+"French","Coptic",3
+"German","Coptic",1
+"Greek","Coptic",2
+"Hebrew","Coptic",1
+"Italian","Coptic",1
+"Latin","Coptic",3
+"Old English","Coptic",2
+"Old French","Coptic",2
+"Old Provençal","Coptic",1
+"Phoenician","Coptic",1
+"Polish","Coptic",1
+"Provençal","Coptic",1
+"Russian","Coptic",1
+"Spanish","Coptic",2
+"Swedish","Coptic",1
+"Breton","Cornish",2
+"Celtic","Cornish",5
+"Church Slavonic","Cornish",1
+"Dutch","Cornish",1
+"French","Cornish",3
+"Frisian","Cornish",1
+"Ga","Cornish",1
+"German","Cornish",1
+"Germanic","Cornish",1
+"Gothic","Cornish",1
+"Irish","Cornish",3
+"Italian","Cornish",1
+"Latin","Cornish",2
+"Lithuanian","Cornish",1
+"Middle Dutch","Cornish",1
+"Middle English","Cornish",2
+"Old Church Slavonic","Cornish",1
+"Old English","Cornish",2
+"Old French","Cornish",2
+"Old High German","Cornish",1
+"Old Irish","Cornish",2
+"Old Norse","Cornish",1
+"Polish","Cornish",1
+"Russian","Cornish",1
+"Slavic","Cornish",1
+"Welsh","Cornish",3
+"French","Cree",2
+"Greek","Cree",2
+"Latin","Cree",2
+"Middle English","Cree",1
+"Old French","Cree",1
+"Somali","Cree",1
+"Albanian","Croatian",1
+"Aramaic","Croatian",1
+"Celtic","Croatian",1
+"Church Slavonic","Croatian",3
+"Czech","Croatian",1
+"Danish","Croatian",2
+"Dutch","Croatian",4
+"French","Croatian",5
+"Frisian","Croatian",1
+"Ga","Croatian",1
+"Gaelic","Croatian",1
+"German","Croatian",6
+"Germanic","Croatian",4
+"Gothic","Croatian",2
+"Greek","Croatian",7
+"Hungarian","Croatian",2
+"Indo-European","Croatian",1
+"Iranian","Croatian",1
+"Irish","Croatian",2
+"Italian","Croatian",3
+"Latin","Croatian",8
+"Latvian","Croatian",1
+"Lithuanian","Croatian",3
+"Middle Dutch","Croatian",1
+"Middle English","Croatian",1
+"Old Church Slavonic","Croatian",3
+"Old English","Croatian",7
+"Old French","Croatian",3
+"Old High German","Croatian",1
+"Old Norse","Croatian",2
+"Old Persian","Croatian",1
+"Persian","Croatian",1
+"Polish","Croatian",4
+"Russian","Croatian",4
+"Sanskrit","Croatian",2
+"Slavic","Croatian",4
+"Spanish","Croatian",4
+"Swedish","Croatian",1
+"Turkish","Croatian",1
+"Welsh","Croatian",3
+"Albanian","Czech",1
+"Church Slavonic","Czech",2
+"Croatian","Czech",1
+"Dutch","Czech",4
+"French","Czech",2
+"Frisian","Czech",3
+"German","Czech",5
+"Germanic","Czech",5
+"Gothic","Czech",4
+"Greek","Czech",5
+"Indo-European","Czech",1
+"Irish","Czech",2
+"Latin","Czech",4
+"Latvian","Czech",2
+"Lithuanian","Czech",4
+"Middle English","Czech",2
+"Middle High German","Czech",1
+"Old Church Slavonic","Czech",2
+"Old English","Czech",5
+"Old French","Czech",2
+"Old High German","Czech",3
+"Old Irish","Czech",1
+"Old Norse","Czech",4
+"Polish","Czech",2
+"Russian","Czech",5
+"Sanskrit","Czech",1
+"Slavic","Czech",2
+"Welsh","Czech",2
+"Albanian","Danish",1
+"Arabic","Danish",1
+"Armenian","Danish",5
+"Avestan","Danish",15
+"Breton","Danish",3
+"Catalan","Danish",2
+"Celtic","Danish",12
+"Church Slavonic","Danish",39
+"Croatian","Danish",2
+"Dutch","Danish",249
+"Finnish","Danish",4
+"Flemish","Danish",1
+"French","Danish",75
+"Frisian","Danish",158
+"Ga","Danish",13
+"Gaelic","Danish",3
+"German","Danish",333
+"Germanic","Danish",271
+"Gothic","Danish",93
+"Greek","Danish",64
+"Hebrew","Danish",3
+"Hindi","Danish",1
+"Hittite","Danish",7
+"Hungarian","Danish",3
+"Icelandic","Danish",6
+"Indo-European","Danish",27
+"Iranian","Danish",3
+"Irish","Danish",37
+"Italian","Danish",37
+"Japanese","Danish",2
+"Korean","Danish",2
+"Latin","Danish",103
+"Latvian","Danish",1
+"Lithuanian","Danish",43
+"Low German","Danish",37
+"Maori","Danish",1
+"Middle Dutch","Danish",132
+"Middle English","Danish",140
+"Middle High German","Danish",18
+"Middle Irish","Danish",2
+"Modern Greek","Danish",1
+"Norwegian","Danish",21
+"Old Church Slavonic","Danish",39
+"Old English","Danish",296
+"Old French","Danish",43
+"Old High German","Danish",193
+"Old Irish","Danish",27
+"Old Norse","Danish",223
+"Old Persian","Danish",3
+"Old Provençal","Danish",1
+"Ossetian","Danish",1
+"Persian","Danish",8
+"Polish","Danish",12
+"Portuguese","Danish",4
+"Provençal","Danish",1
+"Romance","Danish",2
+"Russian","Danish",19
+"Sanskrit","Danish",46
+"Scots","Danish",2
+"Semitic","Danish",1
+"Slavic","Danish",12
+"Slovenian","Danish",1
+"Spanish","Danish",32
+"Swedish","Danish",159
+"Turkish","Danish",1
+"Welsh","Danish",24
+"Yiddish","Danish",2
+"Avestan","Delaware",1
+"Breton","Delaware",1
+"Church Slavonic","Delaware",1
+"Dutch","Delaware",1
+"Frisian","Delaware",2
+"German","Delaware",2
+"Germanic","Delaware",2
+"Gothic","Delaware",1
+"Greek","Delaware",1
+"Irish","Delaware",1
+"Latin","Delaware",1
+"Lithuanian","Delaware",1
+"Low German","Delaware",1
+"Old Church Slavonic","Delaware",1
+"Old English","Delaware",2
+"Old High German","Delaware",2
+"Old Irish","Delaware",1
+"Old Norse","Delaware",1
+"Sanskrit","Delaware",1
+"French","Dravidian",1
+"German","Dravidian",1
+"Greek","Dravidian",1
+"Hindi","Dravidian",1
+"Latin","Dravidian",1
+"Malay","Dravidian",1
+"Malayalam","Dravidian",1
+"Middle High German","Dravidian",1
+"Old French","Dravidian",1
+"Portuguese","Dravidian",1
+"Sanskrit","Dravidian",1
+"Tamil","Dravidian",1
+"Telugu","Dravidian",1
+"Albanian","Dutch",10
+"Arabic","Dutch",4
+"Aramaic","Dutch",1
+"Armenian","Dutch",14
+"Avestan","Dutch",40
+"Basque","Dutch",1
+"Berber","Dutch",1
+"Breton","Dutch",12
+"Bulgarian","Dutch",1
+"Carib","Dutch",1
+"Catalan","Dutch",3
+"Celtic","Dutch",23
+"Chinese","Dutch",4
+"Church Slavonic","Dutch",120
+"Coptic","Dutch",1
+"Cornish","Dutch",1
+"Croatian","Dutch",4
+"Czech","Dutch",4
+"Danish","Dutch",249
+"Delaware","Dutch",1
+"Egyptian","Dutch",2
+"Fang","Dutch",1
+"Finnish","Dutch",15
+"Flemish","Dutch",13
+"French","Dutch",222
+"Frisian","Dutch",572
+"Ga","Dutch",36
+"Gaelic","Dutch",6
+"Georgian","Dutch",2
+"German","Dutch",1119
+"Germanic","Dutch",895
+"Gothic","Dutch",340
+"Greek","Dutch",169
+"Hebrew","Dutch",10
+"Hittite","Dutch",17
+"Hungarian","Dutch",5
+"Icelandic","Dutch",8
+"Indo-European","Dutch",46
+"Iranian","Dutch",5
+"Irish","Dutch",104
+"Italian","Dutch",87
+"Japanese","Dutch",2
+"Korean","Dutch",2
+"Kru","Dutch",2
+"Lao","Dutch",1
+"Latin","Dutch",307
+"Latvian","Dutch",1
+"Lithuanian","Dutch",121
+"Low German","Dutch",155
+"Malay","Dutch",1
+"Manchu","Dutch",1
+"Mandar","Dutch",1
+"Mari","Dutch",3
+"Middle Dutch","Dutch",648
+"Middle English","Dutch",420
+"Middle High German","Dutch",49
+"Middle Irish","Dutch",12
+"Mongo","Dutch",1
+"Mongolian","Dutch",1
+"North American Indian","Dutch",1
+"Norwegian","Dutch",19
+"Ojibwa","Dutch",1
+"Old Church Slavonic","Dutch",120
+"Old English","Dutch",996
+"Old French","Dutch",126
+"Old High German","Dutch",659
+"Old Irish","Dutch",72
+"Old Norse","Dutch",631
+"Old Persian","Dutch",15
+"Old Provençal","Dutch",2
+"Ossetian","Dutch",1
+"Persian","Dutch",29
+"Polish","Dutch",25
+"Portuguese","Dutch",14
+"Provençal","Dutch",7
+"Romance","Dutch",3
+"Russian","Dutch",66
+"Sanskrit","Dutch",104
+"Scots","Dutch",3
+"Semitic","Dutch",2
+"Slavic","Dutch",27
+"Slovak","Dutch",1
+"Slovenian","Dutch",1
+"Spanish","Dutch",80
+"Swedish","Dutch",181
+"Turkish","Dutch",4
+"Twi","Dutch",2
+"Walloon","Dutch",1
+"Welsh","Dutch",68
+"Yiddish","Dutch",3
+"Arabic","Egyptian",1
+"Celtic","Egyptian",1
+"Church Slavonic","Egyptian",1
+"Coptic","Egyptian",2
+"Dutch","Egyptian",2
+"French","Egyptian",10
+"Frisian","Egyptian",1
+"Ga","Egyptian",1
+"German","Egyptian",4
+"Germanic","Egyptian",2
+"Gothic","Egyptian",1
+"Greek","Egyptian",7
+"Hebrew","Egyptian",1
+"Italian","Egyptian",2
+"Latin","Egyptian",10
+"Low German","Egyptian",1
+"Middle Dutch","Egyptian",1
+"Middle English","Egyptian",4
+"Old Church Slavonic","Egyptian",1
+"Old English","Egyptian",4
+"Old French","Egyptian",7
+"Old High German","Egyptian",2
+"Old Provençal","Egyptian",1
+"Phoenician","Egyptian",1
+"Portuguese","Egyptian",2
+"Provençal","Egyptian",2
+"Semitic","Egyptian",1
+"Slavic","Egyptian",1
+"Spanish","Egyptian",4
+"Church Slavonic","Estonian",1
+"Finnish","Estonian",1
+"Frisian","Estonian",1
+"German","Estonian",1
+"Germanic","Estonian",1
+"Gothic","Estonian",1
+"Lithuanian","Estonian",1
+"Old Church Slavonic","Estonian",1
+"Old English","Estonian",1
+"Old High German","Estonian",1
+"Old Norse","Estonian",1
+"Swedish","Estonian",1
+"Dutch","Fang",1
+"Frisian","Fang",1
+"German","Fang",1
+"Germanic","Fang",1
+"Gothic","Fang",1
+"Latin","Fang",1
+"Middle Dutch","Fang",1
+"Middle English","Fang",1
+"Old English","Fang",1
+"Old Norse","Fang",1
+"Arabic","Finnish",1
+"Berber","Finnish",1
+"Breton","Finnish",1
+"Bulgarian","Finnish",1
+"Church Slavonic","Finnish",7
+"Danish","Finnish",4
+"Dutch","Finnish",15
+"Estonian","Finnish",1
+"French","Finnish",4
+"Frisian","Finnish",12
+"Ga","Finnish",2
+"Gaelic","Finnish",1
+"German","Finnish",16
+"Germanic","Finnish",16
+"Gothic","Finnish",6
+"Greek","Finnish",5
+"Hungarian","Finnish",1
+"Indo-European","Finnish",4
+"Iranian","Finnish",2
+"Irish","Finnish",2
+"Italian","Finnish",2
+"Latin","Finnish",6
+"Lithuanian","Finnish",4
+"Low German","Finnish",2
+"Middle Dutch","Finnish",10
+"Middle English","Finnish",7
+"Middle High German","Finnish",2
+"Old Church Slavonic","Finnish",7
+"Old English","Finnish",16
+"Old High German","Finnish",14
+"Old Irish","Finnish",2
+"Old Norse","Finnish",12
+"Polish","Finnish",1
+"Romance","Finnish",1
+"Russian","Finnish",4
+"Sanskrit","Finnish",1
+"Semitic","Finnish",1
+"Slavic","Finnish",3
+"Spanish","Finnish",3
+"Swedish","Finnish",7
+"Welsh","Finnish",3
+"Avestan","Flemish",1
+"Breton","Flemish",2
+"Church Slavonic","Flemish",1
+"Danish","Flemish",1
+"Dutch","Flemish",13
+"French","Flemish",6
+"Frisian","Flemish",4
+"Ga","Flemish",2
+"German","Flemish",16
+"Germanic","Flemish",11
+"Gothic","Flemish",1
+"Greek","Flemish",2
+"Hebrew","Flemish",1
+"Indo-European","Flemish",1
+"Irish","Flemish",1
+"Italian","Flemish",2
+"Latin","Flemish",3
+"Low German","Flemish",4
+"Middle Dutch","Flemish",10
+"Middle English","Flemish",8
+"Middle High German","Flemish",1
+"Norwegian","Flemish",1
+"Old Church Slavonic","Flemish",1
+"Old English","Flemish",9
+"Old French","Flemish",2
+"Old High German","Flemish",5
+"Old Norse","Flemish",7
+"Polish","Flemish",1
+"Sanskrit","Flemish",2
+"Swedish","Flemish",2
+"Twi","Flemish",1
+"Walloon","Flemish",1
+"Middle English","Fon",1
+"Akkadian","French",1
+"Albanian","French",7
+"Arabic","French",21
+"Aramaic","French",4
+"Arawak","French",1
+"Armenian","French",9
+"Avestan","French",18
+"Basque","French",1
+"Berber","French",1
+"Breton","French",16
+"Bulgarian","French",1
+"Carib","French",1
+"Catalan","French",12
+"Celtic","French",37
+"Chinese","French",6
+"Church Slavonic","French",45
+"Coptic","French",3
+"Cornish","French",3
+"Cree","French",2
+"Croatian","French",5
+"Czech","French",2
+"Danish","French",75
+"Dravidian","French",1
+"Dutch","French",222
+"Egyptian","French",10
+"Finnish","French",4
+"Flemish","French",6
+"Frisian","French",83
+"Ga","French",72
+"Gaelic","French",10
+"Georgian","French",1
+"German","French",460
+"Germanic","French",346
+"Gothic","French",69
+"Greek","French",249
+"Haitian","French",1
+"Hawaiian","French",1
+"Hebrew","French",29
+"Hittite","French",10
+"Hungarian","French",4
+"Icelandic","French",5
+"Indo-European","French",40
+"Iranian","French",3
+"Irish","French",61
+"Italian","French",294
+"Japanese","French",3
+"Latin","French",1729
+"Latvian","French",3
+"Lithuanian","French",57
+"Low German","French",36
+"Malay","French",1
+"Manchu","French",1
+"Mandar","French",1
+"Mari","French",8
+"Middle Dutch","French",115
+"Middle English","French",360
+"Middle French","French",2
+"Middle High German","French",23
+"Middle Irish","French",12
+"Modern Greek","French",1
+"Mongo","French",1
+"Mongolian","French",1
+"Neapolitan","French",1
+"North American Indian","French",2
+"Norwegian","French",5
+"Occitan","French",1
+"Old Church Slavonic","French",45
+"Old English","French",421
+"Old French","French",1868
+"Old High German","French",192
+"Old Irish","French",33
+"Old Norse","French",166
+"Old Persian","French",5
+"Old Provençal","French",19
+"Pali","French",1
+"Persian","French",15
+"Phoenician","French",2
+"Polish","French",16
+"Portuguese","French",43
+"Provençal","French",40
+"Romance","French",14
+"Romanian","French",1
+"Russian","French",31
+"Sanskrit","French",60
+"Scots","French",2
+"Semitic","French",12
+"Slavic","French",14
+"Spanish","French",240
+"Swedish","French",58
+"Syriac","French",1
+"Tai","French",1
+"Tibetan","French",1
+"Turkish","French",7
+"Vai","French",1
+"Walloon","French",3
+"Welsh","French",51
+"Albanian","Frisian",4
+"Arabic","Frisian",3
+"Armenian","Frisian",11
+"Avestan","Frisian",36
+"Basque","Frisian",1
+"Berber","Frisian",1
+"Breton","Frisian",8
+"Bulgarian","Frisian",1
+"Celtic","Frisian",14
+"Chinese","Frisian",2
+"Church Slavonic","Frisian",93
+"Cornish","Frisian",1
+"Croatian","Frisian",1
+"Czech","Frisian",3
+"Danish","Frisian",158
+"Delaware","Frisian",2
+"Dutch","Frisian",572
+"Egyptian","Frisian",1
+"Estonian","Frisian",1
+"Fang","Frisian",1
+"Finnish","Frisian",12
+"Flemish","Frisian",4
+"French","Frisian",83
+"Ga","Frisian",22
+"Gaelic","Frisian",3
+"Georgian","Frisian",2
+"German","Frisian",701
+"Germanic","Frisian",634
+"Gothic","Frisian",324
+"Greek","Frisian",134
+"Hebrew","Frisian",6
+"Hittite","Frisian",16
+"Hungarian","Frisian",3
+"Icelandic","Frisian",7
+"Indo-European","Frisian",41
+"Iranian","Frisian",4
+"Irish","Frisian",80
+"Italian","Frisian",29
+"Japanese","Frisian",2
+"Korean","Frisian",2
+"Kru","Frisian",1
+"Lao","Frisian",1
+"Latin","Frisian",180
+"Latvian","Frisian",1
+"Lithuanian","Frisian",91
+"Low German","Frisian",58
+"Maori","Frisian",1
+"Mari","Frisian",2
+"Middle Dutch","Frisian",324
+"Middle English","Frisian",290
+"Middle High German","Frisian",19
+"Middle Irish","Frisian",9
+"North American Indian","Frisian",1
+"Norwegian","Frisian",10
+"Ojibwa","Frisian",1
+"Old Church Slavonic","Frisian",93
+"Old English","Frisian",685
+"Old French","Frisian",34
+"Old High German","Frisian",504
+"Old Irish","Frisian",57
+"Old Norse","Frisian",488
+"Old Persian","Frisian",12
+"Persian","Frisian",19
+"Polish","Frisian",15
+"Portuguese","Frisian",2
+"Romance","Frisian",3
+"Romanian","Frisian",1
+"Russian","Frisian",43
+"Sanskrit","Frisian",88
+"Scots","Frisian",3
+"Semitic","Frisian",2
+"Slavic","Frisian",22
+"Slovak","Frisian",1
+"Slovenian","Frisian",1
+"Spanish","Frisian",28
+"Swedish","Frisian",109
+"Turkish","Frisian",1
+"Welsh","Frisian",40
+"Yiddish","Frisian",2
+"Albanian","Ga",2
+"Arabic","Ga",4
+"Armenian","Ga",1
+"Avestan","Ga",2
+"Basque","Ga",1
+"Berber","Ga",1
+"Breton","Ga",6
+"Bulgarian","Ga",1
+"Catalan","Ga",3
+"Celtic","Ga",19
+"Church Slavonic","Ga",5
+"Cornish","Ga",1
+"Croatian","Ga",1
+"Danish","Ga",13
+"Dutch","Ga",36
+"Egyptian","Ga",1
+"Finnish","Ga",2
+"Flemish","Ga",2
+"French","Ga",72
+"Frisian","Ga",22
+"Gaelic","Ga",21
+"Georgian","Ga",1
+"German","Ga",57
+"Germanic","Ga",49
+"Gothic","Ga",19
+"Greek","Ga",17
+"Hebrew","Ga",3
+"Hindi","Ga",1
+"Hittite","Ga",1
+"Hungarian","Ga",1
+"Icelandic","Ga",1
+"Indo-European","Ga",4
+"Irish","Ga",27
+"Italian","Ga",23
+"Japanese","Ga",2
+"Latin","Ga",62
+"Lithuanian","Ga",7
+"Low German","Ga",6
+"Middle Dutch","Ga",18
+"Middle English","Ga",29
+"Middle High German","Ga",3
+"Middle Irish","Ga",2
+"Norwegian","Ga",1
+"Old Church Slavonic","Ga",5
+"Old English","Ga",54
+"Old French","Ga",57
+"Old High German","Ga",35
+"Old Irish","Ga",18
+"Old Norse","Ga",40
+"Old Provençal","Ga",1
+"Polish","Ga",3
+"Portuguese","Ga",3
+"Provençal","Ga",3
+"Romance","Ga",3
+"Russian","Ga",3
+"Sanskrit","Ga",4
+"Semitic","Ga",1
+"Slavic","Ga",2
+"Spanish","Ga",22
+"Swedish","Ga",11
+"Walloon","Ga",1
+"Welsh","Ga",20
+"Albanian","Gaelic",2
+"Arabic","Gaelic",2
+"Armenian","Gaelic",1
+"Basque","Gaelic",1
+"Berber","Gaelic",1
+"Breton","Gaelic",3
+"Bulgarian","Gaelic",1
+"Celtic","Gaelic",8
+"Church Slavonic","Gaelic",3
+"Croatian","Gaelic",1
+"Danish","Gaelic",3
+"Dutch","Gaelic",6
+"Finnish","Gaelic",1
+"French","Gaelic",10
+"Frisian","Gaelic",3
+"Ga","Gaelic",21
+"Georgian","Gaelic",1
+"German","Gaelic",12
+"Germanic","Gaelic",10
+"Gothic","Gaelic",2
+"Greek","Gaelic",5
+"Hebrew","Gaelic",1
+"Hittite","Gaelic",1
+"Hungarian","Gaelic",1
+"Icelandic","Gaelic",1
+"Indo-European","Gaelic",2
+"Irish","Gaelic",13
+"Italian","Gaelic",5
+"Latin","Gaelic",6
+"Lithuanian","Gaelic",3
+"Low German","Gaelic",1
+"Middle Dutch","Gaelic",2
+"Middle English","Gaelic",4
+"Middle Irish","Gaelic",1
+"Old Church Slavonic","Gaelic",3
+"Old English","Gaelic",12
+"Old French","Gaelic",7
+"Old High German","Gaelic",8
+"Old Irish","Gaelic",6
+"Old Norse","Gaelic",11
+"Polish","Gaelic",3
+"Russian","Gaelic",3
+"Semitic","Gaelic",1
+"Slavic","Gaelic",1
+"Spanish","Gaelic",6
+"Swedish","Gaelic",2
+"Welsh","Gaelic",10
+"Albanian","Georgian",1
+"Arabic","Georgian",1
+"Armenian","Georgian",2
+"Church Slavonic","Georgian",1
+"Dutch","Georgian",2
+"French","Georgian",1
+"Frisian","Georgian",2
+"Ga","Georgian",1
+"Gaelic","Georgian",1
+"German","Georgian",2
+"Germanic","Georgian",1
+"Greek","Georgian",2
+"Hebrew","Georgian",2
+"Hittite","Georgian",2
+"Icelandic","Georgian",1
+"Indo-European","Georgian",2
+"Irish","Georgian",1
+"Latin","Georgian",2
+"Lithuanian","Georgian",1
+"Low German","Georgian",1
+"Middle Dutch","Georgian",1
+"Old Church Slavonic","Georgian",1
+"Old English","Georgian",2
+"Old French","Georgian",1
+"Old High German","Georgian",1
+"Old Irish","Georgian",1
+"Old Norse","Georgian",1
+"Polish","Georgian",1
+"Russian","Georgian",1
+"Semitic","Georgian",2
+"Welsh","Georgian",1
+"Albanian","German",12
+"Arabic","German",8
+"Aramaic","German",2
+"Arawak","German",1
+"Armenian","German",16
+"Avestan","German",47
+"Basque","German",2
+"Berber","German",1
+"Breton","German",19
+"Bulgarian","German",1
+"Carib","German",2
+"Catalan","German",6
+"Celtic","German",36
+"Chinese","German",7
+"Church Slavonic","German",156
+"Coptic","German",1
+"Cornish","German",1
+"Croatian","German",6
+"Czech","German",5
+"Danish","German",333
+"Delaware","German",2
+"Dravidian","German",1
+"Dutch","German",1119
+"Egyptian","German",4
+"Estonian","German",1
+"Fang","German",1
+"Finnish","German",16
+"Flemish","German",16
+"French","German",460
+"Frisian","German",701
+"Ga","German",57
+"Gaelic","German",12
+"Georgian","German",2
+"Germanic","German",1455
+"Gothic","German",480
+"Greek","German",251
+"Haitian","German",1
+"Hebrew","German",17
+"Hindi","German",1
+"Hittite","German",19
+"Hungarian","German",6
+"Icelandic","German",13
+"Indo-European","German",62
+"Iranian","German",6
+"Irish","German",140
+"Italian","German",152
+"Japanese","German",5
+"Korean","German",3
+"Kru","German",2
+"Lao","German",1
+"Latin","German",504
+"Latvian","German",4
+"Lithuanian","German",166
+"Low German","German",204
+"Malay","German",1
+"Manchu","German",1
+"Mandar","German",1
+"Maori","German",1
+"Mari","German",3
+"Middle Dutch","German",625
+"Middle English","German",648
+"Middle French","German",1
+"Middle High German","German",88
+"Middle Irish","German",18
+"Modern Greek","German",2
+"Mongo","German",1
+"Mongolian","German",1
+"Nahuatl","German",1
+"North American Indian","German",2
+"Norwegian","German",31
+"Occitan","German",1
+"Ojibwa","German",1
+"Old Church Slavonic","German",156
+"Old English","German",1513
+"Old French","German",312
+"Old High German","German",960
+"Old Irish","German",93
+"Old Norse","German",922
+"Old Persian","German",17
+"Old Provençal","German",6
+"Ossetian","German",1
+"Persian","German",32
+"Polish","German",32
+"Portuguese","German",23
+"Provençal","German",16
+"Romance","German",10
+"Romanian","German",1
+"Russian","German",88
+"Sanskrit","German",148
+"Scots","German",5
+"Semitic","German",4
+"Slavic","German",36
+"Slovak","German",1
+"Slovenian","German",1
+"Spanish","German",130
+"Swedish","German",256
+"Tai","German",1
+"Turkish","German",4
+"Twi","German",3
+"Walloon","German",1
+"Welsh","German",85
+"Yiddish","German",5
+"Albanian","Germanic",10
+"Arabic","Germanic",4
+"Armenian","Germanic",15
+"Avestan","Germanic",45
+"Basque","Germanic",2
+"Berber","Germanic",1
+"Breton","Germanic",17
+"Bulgarian","Germanic",1
+"Carib","Germanic",1
+"Catalan","Germanic",4
+"Celtic","Germanic",28
+"Chinese","Germanic",5
+"Church Slavonic","Germanic",148
+"Cornish","Germanic",1
+"Croatian","Germanic",4
+"Czech","Germanic",5
+"Danish","Germanic",271
+"Delaware","Germanic",2
+"Dutch","Germanic",895
+"Egyptian","Germanic",2
+"Estonian","Germanic",1
+"Fang","Germanic",1
+"Finnish","Germanic",16
+"Flemish","Germanic",11
+"French","Germanic",346
+"Frisian","Germanic",634
+"Ga","Germanic",49
+"Gaelic","Germanic",10
+"Georgian","Germanic",1
+"German","Germanic",1455
+"Gothic","Germanic",450
+"Greek","Germanic",206
+"Hebrew","Germanic",13
+"Hindi","Germanic",1
+"Hittite","Germanic",19
+"Hungarian","Germanic",4
+"Icelandic","Germanic",12
+"Indo-European","Germanic",58
+"Iranian","Germanic",5
+"Irish","Germanic",123
+"Italian","Germanic",107
+"Japanese","Germanic",3
+"Korean","Germanic",2
+"Kru","Germanic",2
+"Lao","Germanic",1
+"Latin","Germanic",397
+"Latvian","Germanic",3
+"Lithuanian","Germanic",153
+"Low German","Germanic",140
+"Manchu","Germanic",1
+"Mari","Germanic",3
+"Middle Dutch","Germanic",538
+"Middle English","Germanic",555
+"Middle French","Germanic",1
+"Middle High German","Germanic",57
+"Middle Irish","Germanic",16
+"Modern Greek","Germanic",2
+"Mongo","Germanic",1
+"Mongolian","Germanic",1
+"North American Indian","Germanic",2
+"Norwegian","Germanic",16
+"Occitan","Germanic",1
+"Ojibwa","Germanic",1
+"Old Church Slavonic","Germanic",148
+"Old English","Germanic",1267
+"Old French","Germanic",236
+"Old High German","Germanic",837
+"Old Irish","Germanic",83
+"Old Norse","Germanic",841
+"Old Persian","Germanic",12
+"Old Provençal","Germanic",3
+"Ossetian","Germanic",1
+"Persian","Germanic",24
+"Polish","Germanic",27
+"Portuguese","Germanic",10
+"Provençal","Germanic",11
+"Romance","Germanic",10
+"Russian","Germanic",72
+"Sanskrit","Germanic",135
+"Scots","Germanic",4
+"Semitic","Germanic",2
+"Slavic","Germanic",35
+"Slovak","Germanic",1
+"Slovenian","Germanic",1
+"Spanish","Germanic",90
+"Swedish","Germanic",209
+"Turkish","Germanic",2
+"Twi","Germanic",1
+"Walloon","Germanic",1
+"Welsh","Germanic",75
+"Yiddish","Germanic",3
+"Albanian","Gothic",6
+"Arabic","Gothic",1
+"Armenian","Gothic",8
+"Avestan","Gothic",32
+"Basque","Gothic",1
+"Breton","Gothic",8
+"Catalan","Gothic",1
+"Celtic","Gothic",12
+"Chinese","Gothic",2
+"Church Slavonic","Gothic",81
+"Cornish","Gothic",1
+"Croatian","Gothic",2
+"Czech","Gothic",4
+"Danish","Gothic",93
+"Delaware","Gothic",1
+"Dutch","Gothic",340
+"Egyptian","Gothic",1
+"Estonian","Gothic",1
+"Fang","Gothic",1
+"Finnish","Gothic",6
+"Flemish","Gothic",1
+"French","Gothic",69
+"Frisian","Gothic",324
+"Ga","Gothic",19
+"Gaelic","Gothic",2
+"German","Gothic",480
+"Germanic","Gothic",450
+"Greek","Gothic",109
+"Hebrew","Gothic",7
+"Hindi","Gothic",1
+"Hittite","Gothic",14
+"Hungarian","Gothic",4
+"Icelandic","Gothic",4
+"Indo-European","Gothic",30
+"Iranian","Gothic",3
+"Irish","Gothic",63
+"Italian","Gothic",25
+"Japanese","Gothic",2
+"Latin","Gothic",159
+"Latvian","Gothic",2
+"Lithuanian","Gothic",80
+"Low German","Gothic",28
+"Mari","Gothic",1
+"Middle Dutch","Gothic",183
+"Middle English","Gothic",211
+"Middle High German","Gothic",13
+"Middle Irish","Gothic",6
+"Modern Greek","Gothic",1
+"Norwegian","Gothic",2
+"Old Church Slavonic","Gothic",81
+"Old English","Gothic",485
+"Old French","Gothic",36
+"Old High German","Gothic",360
+"Old Irish","Gothic",49
+"Old Norse","Gothic",369
+"Old Persian","Gothic",11
+"Persian","Gothic",18
+"Polish","Gothic",9
+"Portuguese","Gothic",1
+"Provençal","Gothic",1
+"Romance","Gothic",2
+"Russian","Gothic",37
+"Sanskrit","Gothic",83
+"Scots","Gothic",1
+"Semitic","Gothic",1
+"Slavic","Gothic",18
+"Slovak","Gothic",1
+"Spanish","Gothic",22
+"Swedish","Gothic",76
+"Turkish","Gothic",1
+"Welsh","Gothic",39
+"Yiddish","Gothic",1
+"Akkadian","Greek",1
+"Albanian","Greek",11
+"Arabic","Greek",8
+"Aramaic","Greek",3
+"Armenian","Greek",17
+"Avestan","Greek",38
+"Berber","Greek",1
+"Breton","Greek",10
+"Bulgarian","Greek",1
+"Carib","Greek",2
+"Catalan","Greek",2
+"Celtic","Greek",14
+"Chinese","Greek",7
+"Church Slavonic","Greek",91
+"Coptic","Greek",2
+"Cree","Greek",2
+"Croatian","Greek",7
+"Czech","Greek",5
+"Danish","Greek",64
+"Delaware","Greek",1
+"Dravidian","Greek",1
+"Dutch","Greek",169
+"Egyptian","Greek",7
+"Finnish","Greek",5
+"Flemish","Greek",2
+"French","Greek",249
+"Frisian","Greek",134
+"Ga","Greek",17
+"Gaelic","Greek",5
+"Georgian","Greek",2
+"German","Greek",251
+"Germanic","Greek",206
+"Gothic","Greek",109
+"Hebrew","Greek",28
+"Hittite","Greek",13
+"Hungarian","Greek",6
+"Icelandic","Greek",4
+"Indo-European","Greek",47
+"Iranian","Greek",5
+"Irish","Greek",87
+"Italian","Greek",65
+"Japanese","Greek",2
+"Korean","Greek",2
+"Kru","Greek",2
+"Latin","Greek",397
+"Latvian","Greek",2
+"Lithuanian","Greek",94
+"Low German","Greek",24
+"Macedonian","Greek",1
+"Malay","Greek",1
+"Manchu","Greek",1
+"Mandar","Greek",1
+"Mari","Greek",1
+"Middle Dutch","Greek",89
+"Middle English","Greek",152
+"Middle French","Greek",2
+"Middle High German","Greek",8
+"Middle Irish","Greek",11
+"Modern Greek","Greek",2
+"Mongo","Greek",1
+"Mongolian","Greek",1
+"Nahuatl","Greek",1
+"Norwegian","Greek",4
+"Old Church Slavonic","Greek",91
+"Old English","Greek",288
+"Old French","Greek",191
+"Old High German","Greek",167
+"Old Irish","Greek",56
+"Old Norse","Greek",159
+"Old Persian","Greek",15
+"Old Provençal","Greek",2
+"Persian","Greek",28
+"Phoenician","Greek",1
+"Polish","Greek",18
+"Portuguese","Greek",10
+"Provençal","Greek",4
+"Romance","Greek",3
+"Russian","Greek",49
+"Sanskrit","Greek",112
+"Scots","Greek",1
+"Semitic","Greek",12
+"Slavic","Greek",22
+"Slovak","Greek",1
+"Spanish","Greek",62
+"Swedish","Greek",51
+"Syriac","Greek",1
+"Turkish","Greek",6
+"Walloon","Greek",1
+"Welsh","Greek",52
+"Arawak","Haitian",1
+"Breton","Haitian",1
+"Carib","Haitian",1
+"French","Haitian",1
+"German","Haitian",1
+"Portuguese","Haitian",1
+"Spanish","Haitian",1
+"Tai","Haitian",1
+"French","Hawaiian",1
+"Latin","Hawaiian",1
+"Old French","Hawaiian",1
+"Akkadian","Hebrew",1
+"Albanian","Hebrew",2
+"Arabic","Hebrew",4
+"Aramaic","Hebrew",2
+"Armenian","Hebrew",2
+"Breton","Hebrew",1
+"Celtic","Hebrew",2
+"Church Slavonic","Hebrew",3
+"Coptic","Hebrew",1
+"Danish","Hebrew",3
+"Dutch","Hebrew",10
+"Egyptian","Hebrew",1
+"Flemish","Hebrew",1
+"French","Hebrew",29
+"Frisian","Hebrew",6
+"Ga","Hebrew",3
+"Gaelic","Hebrew",1
+"Georgian","Hebrew",2
+"German","Hebrew",17
+"Germanic","Hebrew",13
+"Gothic","Hebrew",7
+"Greek","Hebrew",28
+"Hittite","Hebrew",2
+"Indo-European","Hebrew",5
+"Irish","Hebrew",3
+"Italian","Hebrew",11
+"Latin","Hebrew",38
+"Lithuanian","Hebrew",3
+"Low German","Hebrew",3
+"Middle Dutch","Hebrew",5
+"Middle English","Hebrew",15
+"Old Church Slavonic","Hebrew",3
+"Old English","Hebrew",21
+"Old French","Hebrew",27
+"Old High German","Hebrew",9
+"Old Irish","Hebrew",2
+"Old Norse","Hebrew",7
+"Persian","Hebrew",1
+"Phoenician","Hebrew",1
+"Polish","Hebrew",2
+"Portuguese","Hebrew",2
+"Provençal","Hebrew",1
+"Romance","Hebrew",1
+"Russian","Hebrew",3
+"Sanskrit","Hebrew",4
+"Semitic","Hebrew",9
+"Spanish","Hebrew",11
+"Swedish","Hebrew",2
+"Syriac","Hebrew",1
+"Turkish","Hebrew",1
+"Welsh","Hebrew",1
+"Danish","Hindi",1
+"Dravidian","Hindi",1
+"Ga","Hindi",1
+"German","Hindi",1
+"Germanic","Hindi",1
+"Gothic","Hindi",1
+"Indo-European","Hindi",1
+"Latin","Hindi",1
+"Malay","Hindi",1
+"Malayalam","Hindi",1
+"Middle English","Hindi",1
+"Middle High German","Hindi",1
+"Old English","Hindi",1
+"Old High German","Hindi",1
+"Old Norse","Hindi",1
+"Portuguese","Hindi",1
+"Sanskrit","Hindi",2
+"Tamil","Hindi",1
+"Telugu","Hindi",1
+"Albanian","Hittite",1
+"Arabic","Hittite",1
+"Armenian","Hittite",5
+"Avestan","Hittite",4
+"Breton","Hittite",2
+"Church Slavonic","Hittite",10
+"Danish","Hittite",7
+"Dutch","Hittite",17
+"French","Hittite",10
+"Frisian","Hittite",16
+"Ga","Hittite",1
+"Gaelic","Hittite",1
+"Georgian","Hittite",2
+"German","Hittite",19
+"Germanic","Hittite",19
+"Gothic","Hittite",14
+"Greek","Hittite",13
+"Hebrew","Hittite",2
+"Indo-European","Hittite",3
+"Irish","Hittite",13
+"Italian","Hittite",1
+"Latin","Hittite",26
+"Lithuanian","Hittite",14
+"Middle Dutch","Hittite",11
+"Middle English","Hittite",12
+"Middle High German","Hittite",1
+"Middle Irish","Hittite",2
+"Norwegian","Hittite",1
+"Old Church Slavonic","Hittite",10
+"Old English","Hittite",23
+"Old French","Hittite",8
+"Old High German","Hittite",15
+"Old Irish","Hittite",10
+"Old Norse","Hittite",17
+"Old Persian","Hittite",3
+"Persian","Hittite",4
+"Polish","Hittite",1
+"Provençal","Hittite",1
+"Russian","Hittite",4
+"Sanskrit","Hittite",17
+"Semitic","Hittite",2
+"Slavic","Hittite",1
+"Swedish","Hittite",5
+"Welsh","Hittite",8
+"Albanian","Hungarian",1
+"Arabic","Hungarian",1
+"Aramaic","Hungarian",1
+"Celtic","Hungarian",1
+"Church Slavonic","Hungarian",1
+"Croatian","Hungarian",2
+"Danish","Hungarian",3
+"Dutch","Hungarian",5
+"Finnish","Hungarian",1
+"French","Hungarian",4
+"Frisian","Hungarian",3
+"Ga","Hungarian",1
+"Gaelic","Hungarian",1
+"German","Hungarian",6
+"Germanic","Hungarian",4
+"Gothic","Hungarian",4
+"Greek","Hungarian",6
+"Indo-European","Hungarian",2
+"Iranian","Hungarian",2
+"Irish","Hungarian",2
+"Italian","Hungarian",5
+"Latin","Hungarian",4
+"Lithuanian","Hungarian",2
+"Middle Dutch","Hungarian",1
+"Middle English","Hungarian",3
+"Old Church Slavonic","Hungarian",1
+"Old English","Hungarian",5
+"Old French","Hungarian",2
+"Old High German","Hungarian",3
+"Old Norse","Hungarian",3
+"Old Persian","Hungarian",1
+"Persian","Hungarian",2
+"Polish","Hungarian",3
+"Portuguese","Hungarian",2
+"Russian","Hungarian",3
+"Sanskrit","Hungarian",1
+"Semitic","Hungarian",1
+"Slavic","Hungarian",3
+"Spanish","Hungarian",5
+"Swedish","Hungarian",1
+"Turkish","Hungarian",2
+"Welsh","Hungarian",2
+"Basque","Icelandic",1
+"Breton","Icelandic",1
+"Catalan","Icelandic",1
+"Church Slavonic","Icelandic",4
+"Danish","Icelandic",6
+"Dutch","Icelandic",8
+"French","Icelandic",5
+"Frisian","Icelandic",7
+"Ga","Icelandic",1
+"Gaelic","Icelandic",1
+"Georgian","Icelandic",1
+"German","Icelandic",13
+"Germanic","Icelandic",12
+"Gothic","Icelandic",4
+"Greek","Icelandic",4
+"Indo-European","Icelandic",2
+"Irish","Icelandic",3
+"Italian","Icelandic",2
+"Latin","Icelandic",5
+"Lithuanian","Icelandic",2
+"Low German","Icelandic",2
+"Middle Dutch","Icelandic",6
+"Middle English","Icelandic",4
+"Modern Greek","Icelandic",1
+"Norwegian","Icelandic",3
+"Old Church Slavonic","Icelandic",4
+"Old English","Icelandic",12
+"Old French","Icelandic",3
+"Old High German","Icelandic",7
+"Old Irish","Icelandic",1
+"Old Norse","Icelandic",12
+"Ossetian","Icelandic",1
+"Persian","Icelandic",1
+"Portuguese","Icelandic",1
+"Romance","Icelandic",1
+"Russian","Icelandic",2
+"Sanskrit","Icelandic",4
+"Spanish","Icelandic",3
+"Swedish","Icelandic",6
+"Welsh","Icelandic",2
+"Albanian","Indo-European",2
+"Arabic","Indo-European",3
+"Armenian","Indo-European",4
+"Avestan","Indo-European",6
+"Berber","Indo-European",1
+"Breton","Indo-European",3
+"Bulgarian","Indo-European",1
+"Catalan","Indo-European",2
+"Celtic","Indo-European",4
+"Chinese","Indo-European",2
+"Church Slavonic","Indo-European",22
+"Croatian","Indo-European",1
+"Czech","Indo-European",1
+"Danish","Indo-European",27
+"Dutch","Indo-European",46
+"Finnish","Indo-European",4
+"Flemish","Indo-European",1
+"French","Indo-European",40
+"Frisian","Indo-European",41
+"Ga","Indo-European",4
+"Gaelic","Indo-European",2
+"Georgian","Indo-European",2
+"German","Indo-European",62
+"Germanic","Indo-European",58
+"Gothic","Indo-European",30
+"Greek","Indo-European",47
+"Hebrew","Indo-European",5
+"Hindi","Indo-European",1
+"Hittite","Indo-European",3
+"Hungarian","Indo-European",2
+"Icelandic","Indo-European",2
+"Iranian","Indo-European",4
+"Irish","Indo-European",15
+"Italian","Indo-European",17
+"Korean","Indo-European",1
+"Latin","Indo-European",55
+"Lithuanian","Indo-European",19
+"Low German","Indo-European",5
+"Middle Dutch","Indo-European",23
+"Middle English","Indo-European",34
+"Middle High German","Indo-European",2
+"Modern Greek","Indo-European",1
+"Nahuatl","Indo-European",1
+"Norwegian","Indo-European",1
+"Occitan","Indo-European",1
+"Old Church Slavonic","Indo-European",22
+"Old English","Indo-European",63
+"Old French","Indo-European",27
+"Old High German","Indo-European",39
+"Old Irish","Indo-European",8
+"Old Norse","Indo-European",46
+"Old Persian","Indo-European",3
+"Old Provençal","Indo-European",1
+"Persian","Indo-European",4
+"Polish","Indo-European",8
+"Portuguese","Indo-European",4
+"Provençal","Indo-European",2
+"Romance","Indo-European",1
+"Romanian","Indo-European",1
+"Russian","Indo-European",14
+"Sanskrit","Indo-European",18
+"Scots","Indo-European",1
+"Semitic","Indo-European",4
+"Slavic","Indo-European",7
+"Spanish","Indo-European",18
+"Swedish","Indo-European",19
+"Turkish","Indo-European",1
+"Welsh","Indo-European",10
+"Aramaic","Iranian",1
+"Avestan","Iranian",1
+"Church Slavonic","Iranian",2
+"Croatian","Iranian",1
+"Danish","Iranian",3
+"Dutch","Iranian",5
+"Finnish","Iranian",2
+"French","Iranian",3
+"Frisian","Iranian",4
+"German","Iranian",6
+"Germanic","Iranian",5
+"Gothic","Iranian",3
+"Greek","Iranian",5
+"Hungarian","Iranian",2
+"Indo-European","Iranian",4
+"Irish","Iranian",2
+"Italian","Iranian",1
+"Latin","Iranian",5
+"Lithuanian","Iranian",2
+"Middle Dutch","Iranian",3
+"Middle English","Iranian",3
+"Old Church Slavonic","Iranian",2
+"Old English","Iranian",6
+"Old French","Iranian",1
+"Old High German","Iranian",4
+"Old Norse","Iranian",5
+"Old Persian","Iranian",1
+"Persian","Iranian",2
+"Polish","Iranian",2
+"Russian","Iranian",2
+"Sanskrit","Iranian",1
+"Semitic","Iranian",1
+"Slavic","Iranian",1
+"Spanish","Iranian",2
+"Swedish","Iranian",2
+"Turkish","Iranian",1
+"Welsh","Iranian",1
+"Albanian","Irish",4
+"Arabic","Irish",5
+"Aramaic","Irish",1
+"Armenian","Irish",10
+"Avestan","Irish",26
+"Basque","Irish",1
+"Berber","Irish",1
+"Breton","Irish",18
+"Bulgarian","Irish",1
+"Celtic","Irish",25
+"Church Slavonic","Irish",59
+"Cornish","Irish",3
+"Croatian","Irish",2
+"Czech","Irish",2
+"Danish","Irish",37
+"Delaware","Irish",1
+"Dutch","Irish",104
+"Finnish","Irish",2
+"Flemish","Irish",1
+"French","Irish",61
+"Frisian","Irish",80
+"Ga","Irish",27
+"Gaelic","Irish",13
+"Georgian","Irish",1
+"German","Irish",140
+"Germanic","Irish",123
+"Gothic","Irish",63
+"Greek","Irish",87
+"Hebrew","Irish",3
+"Hittite","Irish",13
+"Hungarian","Irish",2
+"Icelandic","Irish",3
+"Indo-European","Irish",15
+"Iranian","Irish",2
+"Italian","Irish",20
+"Japanese","Irish",1
+"Kru","Irish",1
+"Latin","Irish",119
+"Latvian","Irish",1
+"Lithuanian","Irish",65
+"Low German","Irish",12
+"Manx","Irish",1
+"Mari","Irish",1
+"Middle Dutch","Irish",61
+"Middle English","Irish",69
+"Middle High German","Irish",4
+"Middle Irish","Irish",28
+"Old Church Slavonic","Irish",59
+"Old English","Irish",143
+"Old French","Irish",37
+"Old High German","Irish",110
+"Old Irish","Irish",114
+"Old Norse","Irish",107
+"Old Persian","Irish",7
+"Persian","Irish",13
+"Polish","Irish",14
+"Portuguese","Irish",4
+"Provençal","Irish",1
+"Russian","Irish",29
+"Sanskrit","Irish",62
+"Semitic","Irish",1
+"Slavic","Irish",9
+"Slovak","Irish",1
+"Spanish","Irish",20
+"Swedish","Irish",29
+"Turkish","Irish",1
+"Welsh","Irish",83
+"Albanian","Italian",4
+"Arabic","Italian",12
+"Aramaic","Italian",3
+"Armenian","Italian",1
+"Avestan","Italian",4
+"Berber","Italian",1
+"Breton","Italian",3
+"Bulgarian","Italian",1
+"Catalan","Italian",12
+"Celtic","Italian",14
+"Chinese","Italian",2
+"Church Slavonic","Italian",14
+"Coptic","Italian",1
+"Cornish","Italian",1
+"Croatian","Italian",3
+"Danish","Italian",37
+"Dutch","Italian",87
+"Egyptian","Italian",2
+"Finnish","Italian",2
+"Flemish","Italian",2
+"French","Italian",294
+"Frisian","Italian",29
+"Ga","Italian",23
+"Gaelic","Italian",5
+"German","Italian",152
+"Germanic","Italian",107
+"Gothic","Italian",25
+"Greek","Italian",65
+"Hebrew","Italian",11
+"Hittite","Italian",1
+"Hungarian","Italian",5
+"Icelandic","Italian",2
+"Indo-European","Italian",17
+"Iranian","Italian",1
+"Irish","Italian",20
+"Japanese","Italian",1
+"Latin","Italian",244
+"Latvian","Italian",1
+"Lithuanian","Italian",17
+"Low German","Italian",16
+"Manchu","Italian",1
+"Middle Dutch","Italian",38
+"Middle English","Italian",67
+"Middle French","Italian",1
+"Middle High German","Italian",9
+"Middle Irish","Italian",2
+"Modern Greek","Italian",1
+"Mongo","Italian",1
+"Mongolian","Italian",1
+"North American Indian","Italian",1
+"Norwegian","Italian",1
+"Occitan","Italian",1
+"Old Church Slavonic","Italian",14
+"Old English","Italian",113
+"Old French","Italian",209
+"Old High German","Italian",70
+"Old Irish","Italian",9
+"Old Norse","Italian",50
+"Old Persian","Italian",3
+"Old Provençal","Italian",9
+"Pali","Italian",1
+"Persian","Italian",7
+"Polish","Italian",10
+"Portuguese","Italian",38
+"Provençal","Italian",27
+"Romance","Italian",6
+"Romanian","Italian",1
+"Russian","Italian",13
+"Sanskrit","Italian",13
+"Semitic","Italian",4
+"Slavic","Italian",9
+"Spanish","Italian",202
+"Swedish","Italian",25
+"Turkish","Italian",4
+"Welsh","Italian",13
+"Armenian","Japanese",1
+"Avestan","Japanese",1
+"Breton","Japanese",1
+"Catalan","Japanese",1
+"Celtic","Japanese",1
+"Chinese","Japanese",1
+"Church Slavonic","Japanese",1
+"Danish","Japanese",2
+"Dutch","Japanese",2
+"French","Japanese",3
+"Frisian","Japanese",2
+"Ga","Japanese",2
+"German","Japanese",5
+"Germanic","Japanese",3
+"Gothic","Japanese",2
+"Greek","Japanese",2
+"Irish","Japanese",1
+"Italian","Japanese",1
+"Latin","Japanese",4
+"Lithuanian","Japanese",1
+"Middle English","Japanese",2
+"Middle High German","Japanese",1
+"Old Church Slavonic","Japanese",1
+"Old English","Japanese",5
+"Old French","Japanese",2
+"Old High German","Japanese",3
+"Old Irish","Japanese",1
+"Old Norse","Japanese",4
+"Persian","Japanese",1
+"Portuguese","Japanese",1
+"Sanskrit","Japanese",1
+"Spanish","Japanese",1
+"Swedish","Japanese",1
+"Welsh","Japanese",1
+"Avestan","Korean",1
+"Chinese","Korean",1
+"Church Slavonic","Korean",2
+"Danish","Korean",2
+"Dutch","Korean",2
+"Frisian","Korean",2
+"German","Korean",3
+"Germanic","Korean",2
+"Greek","Korean",2
+"Indo-European","Korean",1
+"Latin","Korean",1
+"Middle Dutch","Korean",2
+"Middle English","Korean",2
+"Nahuatl","Korean",1
+"Old Church Slavonic","Korean",2
+"Old English","Korean",3
+"Old High German","Korean",2
+"Old Norse","Korean",2
+"Old Persian","Korean",1
+"Persian","Korean",1
+"Polish","Korean",1
+"Russian","Korean",2
+"Sanskrit","Korean",1
+"Slavic","Korean",1
+"Swedish","Korean",1
+"Welsh","Korean",1
+"Albanian","Kru",1
+"Church Slavonic","Kru",1
+"Dutch","Kru",2
+"Frisian","Kru",1
+"German","Kru",2
+"Germanic","Kru",2
+"Greek","Kru",2
+"Irish","Kru",1
+"Low German","Kru",1
+"Middle Dutch","Kru",2
+"Middle English","Kru",2
+"Middle Irish","Kru",1
+"Old Church Slavonic","Kru",1
+"Old English","Kru",2
+"Old High German","Kru",1
+"Old Norse","Kru",1
+"Dutch","Lao",1
+"Frisian","Lao",1
+"German","Lao",1
+"Germanic","Lao",1
+"Old English","Lao",1
+"Old Norse","Lao",1
+"Yiddish","Lao",1
+"Akkadian","Latin",1
+"Albanian","Latin",12
+"Arabic","Latin",16
+"Aramaic","Latin",3
+"Armenian","Latin",19
+"Avestan","Latin",40
+"Basque","Latin",1
+"Berber","Latin",1
+"Breton","Latin",19
+"Bulgarian","Latin",1
+"Carib","Latin",2
+"Catalan","Latin",10
+"Celtic","Latin",35
+"Chinese","Latin",5
+"Church Slavonic","Latin",113
+"Coptic","Latin",3
+"Cornish","Latin",2
+"Cree","Latin",2
+"Croatian","Latin",8
+"Czech","Latin",4
+"Danish","Latin",103
+"Delaware","Latin",1
+"Dravidian","Latin",1
+"Dutch","Latin",307
+"Egyptian","Latin",10
+"Fang","Latin",1
+"Finnish","Latin",6
+"Flemish","Latin",3
+"French","Latin",1729
+"Frisian","Latin",180
+"Ga","Latin",62
+"Gaelic","Latin",6
+"Georgian","Latin",2
+"German","Latin",504
+"Germanic","Latin",397
+"Gothic","Latin",159
+"Greek","Latin",397
+"Hawaiian","Latin",1
+"Hebrew","Latin",38
+"Hindi","Latin",1
+"Hittite","Latin",26
+"Hungarian","Latin",4
+"Icelandic","Latin",5
+"Indo-European","Latin",55
+"Iranian","Latin",5
+"Irish","Latin",119
+"Italian","Latin",244
+"Japanese","Latin",4
+"Korean","Latin",1
+"Latvian","Latin",5
+"Lithuanian","Latin",123
+"Low German","Latin",38
+"Macedonian","Latin",1
+"Manchu","Latin",1
+"Mari","Latin",8
+"Middle Dutch","Latin",166
+"Middle English","Latin",407
+"Middle French","Latin",2
+"Middle High German","Latin",25
+"Middle Irish","Latin",19
+"Modern Greek","Latin",1
+"Mongo","Latin",1
+"Mongolian","Latin",1
+"North American Indian","Latin",2
+"Norwegian","Latin",5
+"Occitan","Latin",1
+"Old Church Slavonic","Latin",113
+"Old English","Latin",587
+"Old French","Latin",1457
+"Old High German","Latin",283
+"Old Irish","Latin",74
+"Old Norse","Latin",251
+"Old Persian","Latin",12
+"Old Provençal","Latin",14
+"Ossetian","Latin",1
+"Pali","Latin",1
+"Persian","Latin",27
+"Phoenician","Latin",2
+"Polish","Latin",24
+"Portuguese","Latin",38
+"Provençal","Latin",32
+"Romance","Latin",13
+"Romanian","Latin",1
+"Russian","Latin",65
+"Sanskrit","Latin",139
+"Scots","Latin",1
+"Semitic","Latin",14
+"Slavic","Latin",30
+"Slovak","Latin",1
+"Slovenian","Latin",1
+"Spanish","Latin",207
+"Swedish","Latin",77
+"Syriac","Latin",1
+"Tibetan","Latin",1
+"Turkish","Latin",6
+"Vai","Latin",1
+"Walloon","Latin",2
+"Welsh","Latin",86
+"Albanian","Latvian",2
+"Celtic","Latvian",1
+"Croatian","Latvian",1
+"Czech","Latvian",2
+"Danish","Latvian",1
+"Dutch","Latvian",1
+"French","Latvian",3
+"Frisian","Latvian",1
+"German","Latvian",4
+"Germanic","Latvian",3
+"Gothic","Latvian",2
+"Greek","Latvian",2
+"Irish","Latvian",1
+"Italian","Latvian",1
+"Latin","Latvian",5
+"Lithuanian","Latvian",3
+"Low German","Latvian",1
+"Middle English","Latvian",1
+"Middle High German","Latvian",2
+"Old English","Latvian",4
+"Old French","Latvian",3
+"Old High German","Latvian",3
+"Old Irish","Latvian",1
+"Old Norse","Latvian",2
+"Romance","Latvian",2
+"Russian","Latvian",4
+"Sanskrit","Latvian",2
+"Slavic","Latvian",2
+"Swedish","Latvian",1
+"Albanian","Lithuanian",7
+"Arabic","Lithuanian",2
+"Aramaic","Lithuanian",1
+"Armenian","Lithuanian",13
+"Avestan","Lithuanian",30
+"Basque","Lithuanian",1
+"Berber","Lithuanian",1
+"Breton","Lithuanian",6
+"Bulgarian","Lithuanian",1
+"Catalan","Lithuanian",1
+"Celtic","Lithuanian",5
+"Chinese","Lithuanian",3
+"Church Slavonic","Lithuanian",109
+"Cornish","Lithuanian",1
+"Croatian","Lithuanian",3
+"Czech","Lithuanian",4
+"Danish","Lithuanian",43
+"Delaware","Lithuanian",1
+"Dutch","Lithuanian",121
+"Estonian","Lithuanian",1
+"Finnish","Lithuanian",4
+"French","Lithuanian",57
+"Frisian","Lithuanian",91
+"Ga","Lithuanian",7
+"Gaelic","Lithuanian",3
+"Georgian","Lithuanian",1
+"German","Lithuanian",166
+"Germanic","Lithuanian",153
+"Gothic","Lithuanian",80
+"Greek","Lithuanian",94
+"Hebrew","Lithuanian",3
+"Hittite","Lithuanian",14
+"Hungarian","Lithuanian",2
+"Icelandic","Lithuanian",2
+"Indo-European","Lithuanian",19
+"Iranian","Lithuanian",2
+"Irish","Lithuanian",65
+"Italian","Lithuanian",17
+"Japanese","Lithuanian",1
+"Latin","Lithuanian",123
+"Latvian","Lithuanian",3
+"Low German","Lithuanian",19
+"Manchu","Lithuanian",1
+"Middle Dutch","Lithuanian",66
+"Middle English","Lithuanian",75
+"Middle High German","Lithuanian",7
+"Middle Irish","Lithuanian",9
+"Mongo","Lithuanian",1
+"Mongolian","Lithuanian",1
+"Norwegian","Lithuanian",2
+"Old Church Slavonic","Lithuanian",109
+"Old English","Lithuanian",167
+"Old French","Lithuanian",35
+"Old High German","Lithuanian",126
+"Old Irish","Lithuanian",45
+"Old Norse","Lithuanian",119
+"Old Persian","Lithuanian",11
+"Ossetian","Lithuanian",1
+"Persian","Lithuanian",18
+"Polish","Lithuanian",18
+"Portuguese","Lithuanian",3
+"Romance","Lithuanian",1
+"Russian","Lithuanian",47
+"Sanskrit","Lithuanian",80
+"Semitic","Lithuanian",1
+"Slavic","Lithuanian",15
+"Slovak","Lithuanian",1
+"Spanish","Lithuanian",20
+"Swedish","Lithuanian",34
+"Turkish","Lithuanian",1
+"Welsh","Lithuanian",39
+"Avestan","Low German",4
+"Breton","Low German",2
+"Celtic","Low German",2
+"Church Slavonic","Low German",18
+"Danish","Low German",37
+"Delaware","Low German",1
+"Dutch","Low German",155
+"Egyptian","Low German",1
+"Finnish","Low German",2
+"Flemish","Low German",4
+"French","Low German",36
+"Frisian","Low German",58
+"Ga","Low German",6
+"Gaelic","Low German",1
+"Georgian","Low German",1
+"German","Low German",204
+"Germanic","Low German",140
+"Gothic","Low German",28
+"Greek","Low German",24
+"Hebrew","Low German",3
+"Icelandic","Low German",2
+"Indo-European","Low German",5
+"Irish","Low German",12
+"Italian","Low German",16
+"Kru","Low German",1
+"Latin","Low German",38
+"Latvian","Low German",1
+"Lithuanian","Low German",19
+"Maori","Low German",1
+"Middle Dutch","Low German",104
+"Middle English","Low German",68
+"Middle High German","Low German",9
+"Middle Irish","Low German",1
+"Norwegian","Low German",12
+"Old Church Slavonic","Low German",18
+"Old English","Low German",140
+"Old French","Low German",19
+"Old High German","Low German",62
+"Old Irish","Low German",8
+"Old Norse","Low German",66
+"Old Persian","Low German",1
+"Persian","Low German",4
+"Polish","Low German",1
+"Romance","Low German",2
+"Russian","Low German",5
+"Sanskrit","Low German",18
+"Slavic","Low German",3
+"Slovak","Low German",1
+"Spanish","Low German",7
+"Swedish","Low German",31
+"Twi","Low German",1
+"Welsh","Low German",8
+"Yiddish","Low German",1
+"Greek","Macedonian",1
+"Latin","Macedonian",1
+"Old English","Macedonian",1
+"Spanish","Macedonian",1
+"Arabic","Malay",1
+"Austronesian","Malay",1
+"Chinese","Malay",1
+"Dravidian","Malay",1
+"Dutch","Malay",1
+"French","Malay",1
+"German","Malay",1
+"Greek","Malay",1
+"Hindi","Malay",1
+"Malayalam","Malay",1
+"Mandar","Malay",1
+"Persian","Malay",1
+"Portuguese","Malay",2
+"Russian","Malay",1
+"Spanish","Malay",1
+"Tamil","Malay",1
+"Telugu","Malay",1
+"Turkish","Malay",1
+"Dravidian","Malayalam",1
+"Hindi","Malayalam",1
+"Malay","Malayalam",1
+"Portuguese","Malayalam",1
+"Tamil","Malayalam",1
+"Telugu","Malayalam",1
+"Chinese","Manchu",1
+"Church Slavonic","Manchu",1
+"Dutch","Manchu",1
+"French","Manchu",1
+"German","Manchu",1
+"Germanic","Manchu",1
+"Greek","Manchu",1
+"Italian","Manchu",1
+"Latin","Manchu",1
+"Lithuanian","Manchu",1
+"Middle English","Manchu",1
+"Mongo","Manchu",1
+"Mongolian","Manchu",1
+"Old Church Slavonic","Manchu",1
+"Old English","Manchu",1
+"Old French","Manchu",1
+"Old Norse","Manchu",1
+"Slavic","Manchu",1
+"Spanish","Manchu",1
+"Arabic","Mandar",1
+"Chinese","Mandar",1
+"Dutch","Mandar",1
+"French","Mandar",1
+"German","Mandar",1
+"Greek","Mandar",1
+"Malay","Mandar",1
+"Persian","Mandar",1
+"Portuguese","Mandar",1
+"Russian","Mandar",1
+"Spanish","Mandar",1
+"Turkish","Mandar",1
+"Breton","Manx",1
+"Celtic","Manx",1
+"Irish","Manx",1
+"Old Irish","Manx",1
+"Welsh","Manx",1
+"Danish","Maori",1
+"Frisian","Maori",1
+"German","Maori",1
+"Low German","Maori",1
+"Norwegian","Maori",1
+"Dutch","Mari",3
+"French","Mari",8
+"Frisian","Mari",2
+"German","Mari",3
+"Germanic","Mari",3
+"Gothic","Mari",1
+"Greek","Mari",1
+"Irish","Mari",1
+"Latin","Mari",8
+"Middle Dutch","Mari",3
+"Middle English","Mari",3
+"Middle French","Mari",1
+"Old English","Mari",3
+"Old French","Mari",4
+"Old High German","Mari",3
+"Old Irish","Mari",1
+"Old Norse","Mari",2
+"Polish","Mari",1
+"Sanskrit","Mari",1
+"Albanian","Middle Dutch",4
+"Armenian","Middle Dutch",7
+"Avestan","Middle Dutch",21
+"Basque","Middle Dutch",1
+"Breton","Middle Dutch",9
+"Carib","Middle Dutch",1
+"Catalan","Middle Dutch",1
+"Celtic","Middle Dutch",15
+"Chinese","Middle Dutch",2
+"Church Slavonic","Middle Dutch",66
+"Cornish","Middle Dutch",1
+"Croatian","Middle Dutch",1
+"Danish","Middle Dutch",132
+"Dutch","Middle Dutch",648
+"Egyptian","Middle Dutch",1
+"Fang","Middle Dutch",1
+"Finnish","Middle Dutch",10
+"Flemish","Middle Dutch",10
+"French","Middle Dutch",115
+"Frisian","Middle Dutch",324
+"Ga","Middle Dutch",18
+"Gaelic","Middle Dutch",2
+"Georgian","Middle Dutch",1
+"German","Middle Dutch",625
+"Germanic","Middle Dutch",538
+"Gothic","Middle Dutch",183
+"Greek","Middle Dutch",89
+"Hebrew","Middle Dutch",5
+"Hittite","Middle Dutch",11
+"Hungarian","Middle Dutch",1
+"Icelandic","Middle Dutch",6
+"Indo-European","Middle Dutch",23
+"Iranian","Middle Dutch",3
+"Irish","Middle Dutch",61
+"Italian","Middle Dutch",38
+"Korean","Middle Dutch",2
+"Kru","Middle Dutch",2
+"Latin","Middle Dutch",166
+"Lithuanian","Middle Dutch",66
+"Low German","Middle Dutch",104
+"Mari","Middle Dutch",3
+"Middle English","Middle Dutch",249
+"Middle High German","Middle Dutch",40
+"Middle Irish","Middle Dutch",7
+"Norwegian","Middle Dutch",13
+"Old Church Slavonic","Middle Dutch",66
+"Old English","Middle Dutch",560
+"Old French","Middle Dutch",61
+"Old High German","Middle Dutch",403
+"Old Irish","Middle Dutch",42
+"Old Norse","Middle Dutch",363
+"Old Persian","Middle Dutch",4
+"Old Provençal","Middle Dutch",1
+"Ossetian","Middle Dutch",1
+"Persian","Middle Dutch",11
+"Polish","Middle Dutch",13
+"Portuguese","Middle Dutch",2
+"Provençal","Middle Dutch",3
+"Romance","Middle Dutch",2
+"Russian","Middle Dutch",38
+"Sanskrit","Middle Dutch",63
+"Scots","Middle Dutch",1
+"Semitic","Middle Dutch",1
+"Slavic","Middle Dutch",20
+"Slovak","Middle Dutch",1
+"Slovenian","Middle Dutch",1
+"Spanish","Middle Dutch",36
+"Swedish","Middle Dutch",103
+"Turkish","Middle Dutch",1
+"Walloon","Middle Dutch",1
+"Welsh","Middle Dutch",41
+"Yiddish","Middle Dutch",2
+"Albanian","Middle English",6
+"Arabic","Middle English",4
+"Armenian","Middle English",12
+"Avestan","Middle English",19
+"Basque","Middle English",1
+"Breton","Middle English",8
+"Carib","Middle English",1
+"Catalan","Middle English",3
+"Celtic","Middle English",23
+"Chinese","Middle English",4
+"Church Slavonic","Middle English",73
+"Cornish","Middle English",2
+"Cree","Middle English",1
+"Croatian","Middle English",1
+"Czech","Middle English",2
+"Danish","Middle English",140
+"Dutch","Middle English",420
+"Egyptian","Middle English",4
+"Fang","Middle English",1
+"Finnish","Middle English",7
+"Flemish","Middle English",8
+"Fon","Middle English",1
+"French","Middle English",360
+"Frisian","Middle English",290
+"Ga","Middle English",29
+"Gaelic","Middle English",4
+"German","Middle English",648
+"Germanic","Middle English",555
+"Gothic","Middle English",211
+"Greek","Middle English",152
+"Hebrew","Middle English",15
+"Hindi","Middle English",1
+"Hittite","Middle English",12
+"Hungarian","Middle English",3
+"Icelandic","Middle English",4
+"Indo-European","Middle English",34
+"Iranian","Middle English",3
+"Irish","Middle English",69
+"Italian","Middle English",67
+"Japanese","Middle English",2
+"Korean","Middle English",2
+"Kru","Middle English",2
+"Latin","Middle English",407
+"Latvian","Middle English",1
+"Lithuanian","Middle English",75
+"Low German","Middle English",68
+"Manchu","Middle English",1
+"Mari","Middle English",3
+"Middle Dutch","Middle English",249
+"Middle High German","Middle English",34
+"Middle Irish","Middle English",8
+"Modern Greek","Middle English",1
+"Mongo","Middle English",1
+"Mongolian","Middle English",1
+"North American Indian","Middle English",1
+"Norwegian","Middle English",18
+"Ojibwa","Middle English",1
+"Old Church Slavonic","Middle English",73
+"Old English","Middle English",790
+"Old French","Middle English",296
+"Old High German","Middle English",377
+"Old Irish","Middle English",49
+"Old Norse","Middle English",389
+"Old Persian","Middle English",6
+"Old Provençal","Middle English",3
+"Pali","Middle English",1
+"Persian","Middle English",15
+"Phoenician","Middle English",1
+"Polish","Middle English",10
+"Portuguese","Middle English",9
+"Provençal","Middle English",5
+"Romance","Middle English",6
+"Russian","Middle English",38
+"Sanskrit","Middle English",80
+"Scots","Middle English",3
+"Semitic","Middle English",6
+"Slavic","Middle English",19
+"Slovak","Middle English",1
+"Spanish","Middle English",57
+"Swedish","Middle English",113
+"Tibetan","Middle English",1
+"Turkish","Middle English",2
+"Twi","Middle English",1
+"Welsh","Middle English",35
+"French","Middle French",2
+"German","Middle French",1
+"Germanic","Middle French",1
+"Greek","Middle French",2
+"Italian","Middle French",1
+"Latin","Middle French",2
+"Mari","Middle French",1
+"Slavic","Middle French",1
+"Spanish","Middle French",1
+"Breton","Middle High German",1
+"Celtic","Middle High German",6
+"Church Slavonic","Middle High German",3
+"Czech","Middle High German",1
+"Danish","Middle High German",18
+"Dravidian","Middle High German",1
+"Dutch","Middle High German",49
+"Finnish","Middle High German",2
+"Flemish","Middle High German",1
+"French","Middle High German",23
+"Frisian","Middle High German",19
+"Ga","Middle High German",3
+"German","Middle High German",88
+"Germanic","Middle High German",57
+"Gothic","Middle High German",13
+"Greek","Middle High German",8
+"Hindi","Middle High German",1
+"Hittite","Middle High German",1
+"Indo-European","Middle High German",2
+"Irish","Middle High German",4
+"Italian","Middle High German",9
+"Japanese","Middle High German",1
+"Latin","Middle High German",25
+"Latvian","Middle High German",2
+"Lithuanian","Middle High German",7
+"Low German","Middle High German",9
+"Middle Dutch","Middle High German",40
+"Middle English","Middle High German",34
+"Norwegian","Middle High German",2
+"Old Church Slavonic","Middle High German",3
+"Old English","Middle High German",62
+"Old French","Middle High German",19
+"Old High German","Middle High German",19
+"Old Irish","Middle High German",2
+"Old Norse","Middle High German",34
+"Persian","Middle High German",1
+"Polish","Middle High German",1
+"Portuguese","Middle High German",2
+"Provençal","Middle High German",2
+"Romance","Middle High German",1
+"Russian","Middle High German",5
+"Sanskrit","Middle High German",7
+"Slavic","Middle High German",1
+"Spanish","Middle High German",9
+"Swedish","Middle High German",15
+"Turkish","Middle High German",1
+"Twi","Middle High German",2
+"Welsh","Middle High German",1
+"Armenian","Middle Irish",1
+"Avestan","Middle Irish",4
+"Breton","Middle Irish",2
+"Celtic","Middle Irish",3
+"Church Slavonic","Middle Irish",9
+"Danish","Middle Irish",2
+"Dutch","Middle Irish",12
+"French","Middle Irish",12
+"Frisian","Middle Irish",9
+"Ga","Middle Irish",2
+"Gaelic","Middle Irish",1
+"German","Middle Irish",18
+"Germanic","Middle Irish",16
+"Gothic","Middle Irish",6
+"Greek","Middle Irish",11
+"Hittite","Middle Irish",2
+"Irish","Middle Irish",28
+"Italian","Middle Irish",2
+"Kru","Middle Irish",1
+"Latin","Middle Irish",19
+"Lithuanian","Middle Irish",9
+"Low German","Middle Irish",1
+"Middle Dutch","Middle Irish",7
+"Middle English","Middle Irish",8
+"Old Church Slavonic","Middle Irish",9
+"Old English","Middle Irish",18
+"Old French","Middle Irish",7
+"Old High German","Middle Irish",15
+"Old Irish","Middle Irish",4
+"Old Norse","Middle Irish",14
+"Old Persian","Middle Irish",1
+"Persian","Middle Irish",1
+"Polish","Middle Irish",1
+"Portuguese","Middle Irish",1
+"Russian","Middle Irish",4
+"Sanskrit","Middle Irish",8
+"Slavic","Middle Irish",1
+"Spanish","Middle Irish",2
+"Swedish","Middle Irish",1
+"Welsh","Middle Irish",12
+"Danish","Modern Greek",1
+"French","Modern Greek",1
+"German","Modern Greek",2
+"Germanic","Modern Greek",2
+"Gothic","Modern Greek",1
+"Greek","Modern Greek",2
+"Icelandic","Modern Greek",1
+"Indo-European","Modern Greek",1
+"Italian","Modern Greek",1
+"Latin","Modern Greek",1
+"Middle English","Modern Greek",1
+"Old English","Modern Greek",2
+"Old French","Modern Greek",1
+"Old High German","Modern Greek",1
+"Old Norse","Modern Greek",1
+"Romance","Modern Greek",1
+"Spanish","Modern Greek",1
+"Swedish","Modern Greek",1
+"Welsh","Modern Greek",1
+"Chinese","Mongo",1
+"Church Slavonic","Mongo",1
+"Dutch","Mongo",1
+"French","Mongo",1
+"German","Mongo",1
+"Germanic","Mongo",1
+"Greek","Mongo",1
+"Italian","Mongo",1
+"Latin","Mongo",1
+"Lithuanian","Mongo",1
+"Manchu","Mongo",1
+"Middle English","Mongo",1
+"Mongolian","Mongo",1
+"Old Church Slavonic","Mongo",1
+"Old English","Mongo",1
+"Old French","Mongo",1
+"Old Norse","Mongo",1
+"Slavic","Mongo",1
+"Spanish","Mongo",1
+"Chinese","Mongolian",1
+"Church Slavonic","Mongolian",1
+"Dutch","Mongolian",1
+"French","Mongolian",1
+"German","Mongolian",1
+"Germanic","Mongolian",1
+"Greek","Mongolian",1
+"Italian","Mongolian",1
+"Latin","Mongolian",1
+"Lithuanian","Mongolian",1
+"Manchu","Mongolian",1
+"Middle English","Mongolian",1
+"Mongo","Mongolian",1
+"Old Church Slavonic","Mongolian",1
+"Old English","Mongolian",1
+"Old French","Mongolian",1
+"Old Norse","Mongolian",1
+"Slavic","Mongolian",1
+"Spanish","Mongolian",1
+"Chinese","Nahuatl",1
+"Church Slavonic","Nahuatl",1
+"German","Nahuatl",1
+"Greek","Nahuatl",1
+"Indo-European","Nahuatl",1
+"Korean","Nahuatl",1
+"Old Church Slavonic","Nahuatl",1
+"Old English","Nahuatl",1
+"Old Persian","Nahuatl",1
+"Persian","Nahuatl",1
+"Russian","Nahuatl",1
+"French","Neapolitan",1
+"Spanish","Neapolitan",1
+"Dutch","North American Indian",1
+"French","North American Indian",2
+"Frisian","North American Indian",1
+"German","North American Indian",2
+"Germanic","North American Indian",2
+"Italian","North American Indian",1
+"Latin","North American Indian",2
+"Middle English","North American Indian",1
+"Ojibwa","North American Indian",1
+"Old English","North American Indian",2
+"Old French","North American Indian",2
+"Old High German","North American Indian",1
+"Portuguese","North American Indian",1
+"Spanish","North American Indian",1
+"Catalan","Norwegian",1
+"Celtic","Norwegian",1
+"Church Slavonic","Norwegian",2
+"Danish","Norwegian",21
+"Dutch","Norwegian",19
+"Flemish","Norwegian",1
+"French","Norwegian",5
+"Frisian","Norwegian",10
+"Ga","Norwegian",1
+"German","Norwegian",31
+"Germanic","Norwegian",16
+"Gothic","Norwegian",2
+"Greek","Norwegian",4
+"Hittite","Norwegian",1
+"Icelandic","Norwegian",3
+"Indo-European","Norwegian",1
+"Italian","Norwegian",1
+"Latin","Norwegian",5
+"Lithuanian","Norwegian",2
+"Low German","Norwegian",12
+"Maori","Norwegian",1
+"Middle Dutch","Norwegian",13
+"Middle English","Norwegian",18
+"Middle High German","Norwegian",2
+"Old Church Slavonic","Norwegian",2
+"Old English","Norwegian",23
+"Old French","Norwegian",3
+"Old High German","Norwegian",8
+"Old Norse","Norwegian",16
+"Russian","Norwegian",1
+"Sanskrit","Norwegian",3
+"Spanish","Norwegian",1
+"Swedish","Norwegian",23
+"Yiddish","Norwegian",2
+"Arabic","Occitan",1
+"Catalan","Occitan",1
+"French","Occitan",1
+"German","Occitan",1
+"Germanic","Occitan",1
+"Indo-European","Occitan",1
+"Italian","Occitan",1
+"Latin","Occitan",1
+"Old French","Occitan",1
+"Provençal","Occitan",1
+"Dutch","Ojibwa",1
+"Frisian","Ojibwa",1
+"German","Ojibwa",1
+"Germanic","Ojibwa",1
+"Middle English","Ojibwa",1
+"North American Indian","Ojibwa",1
+"Old English","Ojibwa",1
+"Albanian","Old Church Slavonic",4
+"Arabic","Old Church Slavonic",3
+"Armenian","Old Church Slavonic",9
+"Avestan","Old Church Slavonic",31
+"Basque","Old Church Slavonic",1
+"Berber","Old Church Slavonic",1
+"Breton","Old Church Slavonic",7
+"Bulgarian","Old Church Slavonic",1
+"Catalan","Old Church Slavonic",1
+"Celtic","Old Church Slavonic",5
+"Chinese","Old Church Slavonic",3
+"Church Slavonic","Old Church Slavonic",169
+"Cornish","Old Church Slavonic",1
+"Croatian","Old Church Slavonic",3
+"Czech","Old Church Slavonic",2
+"Danish","Old Church Slavonic",39
+"Delaware","Old Church Slavonic",1
+"Dutch","Old Church Slavonic",120
+"Egyptian","Old Church Slavonic",1
+"Estonian","Old Church Slavonic",1
+"Finnish","Old Church Slavonic",7
+"Flemish","Old Church Slavonic",1
+"French","Old Church Slavonic",45
+"Frisian","Old Church Slavonic",93
+"Ga","Old Church Slavonic",5
+"Gaelic","Old Church Slavonic",3
+"Georgian","Old Church Slavonic",1
+"German","Old Church Slavonic",156
+"Germanic","Old Church Slavonic",148
+"Gothic","Old Church Slavonic",81
+"Greek","Old Church Slavonic",91
+"Hebrew","Old Church Slavonic",3
+"Hittite","Old Church Slavonic",10
+"Hungarian","Old Church Slavonic",1
+"Icelandic","Old Church Slavonic",4
+"Indo-European","Old Church Slavonic",22
+"Iranian","Old Church Slavonic",2
+"Irish","Old Church Slavonic",59
+"Italian","Old Church Slavonic",14
+"Japanese","Old Church Slavonic",1
+"Korean","Old Church Slavonic",2
+"Kru","Old Church Slavonic",1
+"Latin","Old Church Slavonic",113
+"Lithuanian","Old Church Slavonic",109
+"Low German","Old Church Slavonic",18
+"Manchu","Old Church Slavonic",1
+"Middle Dutch","Old Church Slavonic",66
+"Middle English","Old Church Slavonic",73
+"Middle High German","Old Church Slavonic",3
+"Middle Irish","Old Church Slavonic",9
+"Mongo","Old Church Slavonic",1
+"Mongolian","Old Church Slavonic",1
+"Nahuatl","Old Church Slavonic",1
+"Norwegian","Old Church Slavonic",2
+"Old English","Old Church Slavonic",158
+"Old French","Old Church Slavonic",23
+"Old High German","Old Church Slavonic",123
+"Old Irish","Old Church Slavonic",44
+"Old Norse","Old Church Slavonic",117
+"Old Persian","Old Church Slavonic",10
+"Ossetian","Old Church Slavonic",1
+"Persian","Old Church Slavonic",15
+"Polish","Old Church Slavonic",13
+"Portuguese","Old Church Slavonic",1
+"Russian","Old Church Slavonic",55
+"Sanskrit","Old Church Slavonic",75
+"Semitic","Old Church Slavonic",2
+"Slavic","Old Church Slavonic",21
+"Slovak","Old Church Slavonic",1
+"Spanish","Old Church Slavonic",17
+"Swedish","Old Church Slavonic",27
+"Welsh","Old Church Slavonic",35
+"Akkadian","Old English",1
+"Albanian","Old English",11
+"Arabic","Old English",5
+"Aramaic","Old English",2
+"Armenian","Old English",20
+"Avestan","Old English",47
+"Basque","Old English",2
+"Berber","Old English",1
+"Breton","Old English",19
+"Bulgarian","Old English",1
+"Carib","Old English",2
+"Catalan","Old English",2
+"Celtic","Old English",34
+"Chinese","Old English",8
+"Church Slavonic","Old English",158
+"Coptic","Old English",2
+"Cornish","Old English",2
+"Croatian","Old English",7
+"Czech","Old English",5
+"Danish","Old English",296
+"Delaware","Old English",2
+"Dutch","Old English",996
+"Egyptian","Old English",4
+"Estonian","Old English",1
+"Fang","Old English",1
+"Finnish","Old English",16
+"Flemish","Old English",9
+"French","Old English",421
+"Frisian","Old English",685
+"Ga","Old English",54
+"Gaelic","Old English",12
+"Georgian","Old English",2
+"German","Old English",1513
+"Germanic","Old English",1267
+"Gothic","Old English",485
+"Greek","Old English",288
+"Hebrew","Old English",21
+"Hindi","Old English",1
+"Hittite","Old English",23
+"Hungarian","Old English",5
+"Icelandic","Old English",12
+"Indo-European","Old English",63
+"Iranian","Old English",6
+"Irish","Old English",143
+"Italian","Old English",113
+"Japanese","Old English",5
+"Korean","Old English",3
+"Kru","Old English",2
+"Lao","Old English",1
+"Latin","Old English",587
+"Latvian","Old English",4
+"Lithuanian","Old English",167
+"Low German","Old English",140
+"Macedonian","Old English",1
+"Manchu","Old English",1
+"Mari","Old English",3
+"Middle Dutch","Old English",560
+"Middle English","Old English",790
+"Middle High German","Old English",62
+"Middle Irish","Old English",18
+"Modern Greek","Old English",2
+"Mongo","Old English",1
+"Mongolian","Old English",1
+"Nahuatl","Old English",1
+"North American Indian","Old English",2
+"Norwegian","Old English",23
+"Ojibwa","Old English",1
+"Old Church Slavonic","Old English",158
+"Old French","Old English",294
+"Old High German","Old English",895
+"Old Irish","Old English",94
+"Old Norse","Old English",899
+"Old Persian","Old English",18
+"Old Provençal","Old English",3
+"Ossetian","Old English",1
+"Persian","Old English",32
+"Phoenician","Old English",1
+"Polish","Old English",27
+"Portuguese","Old English",11
+"Provençal","Old English",6
+"Romance","Old English",10
+"Romanian","Old English",1
+"Russian","Old English",83
+"Sanskrit","Old English",151
+"Scots","Old English",4
+"Semitic","Old English",5
+"Slavic","Old English",34
+"Slovak","Old English",1
+"Slovenian","Old English",1
+"Spanish","Old English",104
+"Swedish","Old English",216
+"Turkish","Old English",3
+"Twi","Old English",2
+"Welsh","Old English",91
+"Yiddish","Old English",5
+"Akkadian","Old French",1
+"Albanian","Old French",5
+"Arabic","Old French",12
+"Aramaic","Old French",2
+"Armenian","Old French",8
+"Avestan","Old French",7
+"Basque","Old French",1
+"Breton","Old French",9
+"Catalan","Old French",10
+"Celtic","Old French",31
+"Chinese","Old French",5
+"Church Slavonic","Old French",23
+"Coptic","Old French",2
+"Cornish","Old French",2
+"Cree","Old French",1
+"Croatian","Old French",3
+"Czech","Old French",2
+"Danish","Old French",43
+"Dravidian","Old French",1
+"Dutch","Old French",126
+"Egyptian","Old French",7
+"Flemish","Old French",2
+"French","Old French",1868
+"Frisian","Old French",34
+"Ga","Old French",57
+"Gaelic","Old French",7
+"Georgian","Old French",1
+"German","Old French",312
+"Germanic","Old French",236
+"Gothic","Old French",36
+"Greek","Old French",191
+"Hawaiian","Old French",1
+"Hebrew","Old French",27
+"Hittite","Old French",8
+"Hungarian","Old French",2
+"Icelandic","Old French",3
+"Indo-European","Old French",27
+"Iranian","Old French",1
+"Irish","Old French",37
+"Italian","Old French",209
+"Japanese","Old French",2
+"Latin","Old French",1457
+"Latvian","Old French",3
+"Lithuanian","Old French",35
+"Low German","Old French",19
+"Manchu","Old French",1
+"Mari","Old French",4
+"Middle Dutch","Old French",61
+"Middle English","Old French",296
+"Middle High German","Old French",19
+"Middle Irish","Old French",7
+"Modern Greek","Old French",1
+"Mongo","Old French",1
+"Mongolian","Old French",1
+"North American Indian","Old French",2
+"Norwegian","Old French",3
+"Occitan","Old French",1
+"Old Church Slavonic","Old French",23
+"Old English","Old French",294
+"Old High German","Old French",110
+"Old Irish","Old French",20
+"Old Norse","Old French",88
+"Old Persian","Old French",3
+"Old Provençal","Old French",16
+"Pali","Old French",1
+"Persian","Old French",9
+"Phoenician","Old French",1
+"Polish","Old French",8
+"Portuguese","Old French",36
+"Provençal","Old French",34
+"Romance","Old French",12
+"Romanian","Old French",1
+"Russian","Old French",17
+"Sanskrit","Old French",42
+"Scots","Old French",1
+"Semitic","Old French",9
+"Slavic","Old French",7
+"Spanish","Old French",183
+"Swedish","Old French",32
+"Syriac","Old French",1
+"Tibetan","Old French",1
+"Turkish","Old French",3
+"Vai","Old French",1
+"Walloon","Old French",1
+"Welsh","Old French",31
+"Albanian","Old High German",9
+"Arabic","Old High German",3
+"Aramaic","Old High German",1
+"Armenian","Old High German",12
+"Avestan","Old High German",37
+"Basque","Old High German",1
+"Berber","Old High German",1
+"Breton","Old High German",15
+"Bulgarian","Old High German",1
+"Carib","Old High German",1
+"Catalan","Old High German",1
+"Celtic","Old High German",20
+"Chinese","Old High German",4
+"Church Slavonic","Old High German",123
+"Cornish","Old High German",1
+"Croatian","Old High German",1
+"Czech","Old High German",3
+"Danish","Old High German",193
+"Delaware","Old High German",2
+"Dutch","Old High German",659
+"Egyptian","Old High German",2
+"Estonian","Old High German",1
+"Finnish","Old High German",14
+"Flemish","Old High German",5
+"French","Old High German",192
+"Frisian","Old High German",504
+"Ga","Old High German",35
+"Gaelic","Old High German",8
+"Georgian","Old High German",1
+"German","Old High German",960
+"Germanic","Old High German",837
+"Gothic","Old High German",360
+"Greek","Old High German",167
+"Hebrew","Old High German",9
+"Hindi","Old High German",1
+"Hittite","Old High German",15
+"Hungarian","Old High German",3
+"Icelandic","Old High German",7
+"Indo-European","Old High German",39
+"Iranian","Old High German",4
+"Irish","Old High German",110
+"Italian","Old High German",70
+"Japanese","Old High German",3
+"Korean","Old High German",2
+"Kru","Old High German",1
+"Latin","Old High German",283
+"Latvian","Old High German",3
+"Lithuanian","Old High German",126
+"Low German","Old High German",62
+"Mari","Old High German",3
+"Middle Dutch","Old High German",403
+"Middle English","Old High German",377
+"Middle High German","Old High German",19
+"Middle Irish","Old High German",15
+"Modern Greek","Old High German",1
+"North American Indian","Old High German",1
+"Norwegian","Old High German",8
+"Old Church Slavonic","Old High German",123
+"Old English","Old High German",895
+"Old French","Old High German",110
+"Old Irish","Old High German",75
+"Old Norse","Old High German",603
+"Old Persian","Old High German",12
+"Old Provençal","Old High German",1
+"Ossetian","Old High German",1
+"Persian","Old High German",24
+"Polish","Old High German",20
+"Portuguese","Old High German",8
+"Provençal","Old High German",3
+"Romance","Old High German",5
+"Russian","Old High German",64
+"Sanskrit","Old High German",108
+"Scots","Old High German",3
+"Semitic","Old High German",4
+"Slavic","Old High German",28
+"Slovak","Old High German",1
+"Slovenian","Old High German",1
+"Spanish","Old High German",57
+"Swedish","Old High German",144
+"Turkish","Old High German",2
+"Twi","Old High German",1
+"Welsh","Old High German",64
+"Yiddish","Old High German",1
+"Albanian","Old Irish",4
+"Arabic","Old Irish",3
+"Armenian","Old Irish",8
+"Avestan","Old Irish",20
+"Berber","Old Irish",1
+"Breton","Old Irish",13
+"Bulgarian","Old Irish",1
+"Celtic","Old Irish",15
+"Church Slavonic","Old Irish",44
+"Cornish","Old Irish",2
+"Czech","Old Irish",1
+"Danish","Old Irish",27
+"Delaware","Old Irish",1
+"Dutch","Old Irish",72
+"Finnish","Old Irish",2
+"French","Old Irish",33
+"Frisian","Old Irish",57
+"Ga","Old Irish",18
+"Gaelic","Old Irish",6
+"Georgian","Old Irish",1
+"German","Old Irish",93
+"Germanic","Old Irish",83
+"Gothic","Old Irish",49
+"Greek","Old Irish",56
+"Hebrew","Old Irish",2
+"Hittite","Old Irish",10
+"Icelandic","Old Irish",1
+"Indo-European","Old Irish",8
+"Irish","Old Irish",114
+"Italian","Old Irish",9
+"Japanese","Old Irish",1
+"Latin","Old Irish",74
+"Latvian","Old Irish",1
+"Lithuanian","Old Irish",45
+"Low German","Old Irish",8
+"Manx","Old Irish",1
+"Mari","Old Irish",1
+"Middle Dutch","Old Irish",42
+"Middle English","Old Irish",49
+"Middle High German","Old Irish",2
+"Middle Irish","Old Irish",4
+"Old Church Slavonic","Old Irish",44
+"Old English","Old Irish",94
+"Old French","Old Irish",20
+"Old High German","Old Irish",75
+"Old Norse","Old Irish",70
+"Old Persian","Old Irish",4
+"Persian","Old Irish",9
+"Polish","Old Irish",7
+"Portuguese","Old Irish",2
+"Provençal","Old Irish",1
+"Russian","Old Irish",19
+"Sanskrit","Old Irish",44
+"Semitic","Old Irish",1
+"Slavic","Old Irish",5
+"Slovak","Old Irish",1
+"Spanish","Old Irish",10
+"Swedish","Old Irish",24
+"Welsh","Old Irish",54
+"Albanian","Old Norse",6
+"Arabic","Old Norse",3
+"Armenian","Old Norse",12
+"Avestan","Old Norse",42
+"Basque","Old Norse",2
+"Berber","Old Norse",1
+"Breton","Old Norse",13
+"Bulgarian","Old Norse",1
+"Carib","Old Norse",1
+"Catalan","Old Norse",1
+"Celtic","Old Norse",26
+"Chinese","Old Norse",4
+"Church Slavonic","Old Norse",117
+"Cornish","Old Norse",1
+"Croatian","Old Norse",2
+"Czech","Old Norse",4
+"Danish","Old Norse",223
+"Delaware","Old Norse",1
+"Dutch","Old Norse",631
+"Estonian","Old Norse",1
+"Fang","Old Norse",1
+"Finnish","Old Norse",12
+"Flemish","Old Norse",7
+"French","Old Norse",166
+"Frisian","Old Norse",488
+"Ga","Old Norse",40
+"Gaelic","Old Norse",11
+"Georgian","Old Norse",1
+"German","Old Norse",922
+"Germanic","Old Norse",841
+"Gothic","Old Norse",369
+"Greek","Old Norse",159
+"Hebrew","Old Norse",7
+"Hindi","Old Norse",1
+"Hittite","Old Norse",17
+"Hungarian","Old Norse",3
+"Icelandic","Old Norse",12
+"Indo-European","Old Norse",46
+"Iranian","Old Norse",5
+"Irish","Old Norse",107
+"Italian","Old Norse",50
+"Japanese","Old Norse",4
+"Korean","Old Norse",2
+"Kru","Old Norse",1
+"Lao","Old Norse",1
+"Latin","Old Norse",251
+"Latvian","Old Norse",2
+"Lithuanian","Old Norse",119
+"Low German","Old Norse",66
+"Manchu","Old Norse",1
+"Mari","Old Norse",2
+"Middle Dutch","Old Norse",363
+"Middle English","Old Norse",389
+"Middle High German","Old Norse",34
+"Middle Irish","Old Norse",14
+"Modern Greek","Old Norse",1
+"Mongo","Old Norse",1
+"Mongolian","Old Norse",1
+"Norwegian","Old Norse",16
+"Old Church Slavonic","Old Norse",117
+"Old English","Old Norse",899
+"Old French","Old Norse",88
+"Old High German","Old Norse",603
+"Old Irish","Old Norse",70
+"Old Persian","Old Norse",12
+"Old Provençal","Old Norse",1
+"Ossetian","Old Norse",1
+"Persian","Old Norse",18
+"Polish","Old Norse",19
+"Portuguese","Old Norse",7
+"Provençal","Old Norse",3
+"Romance","Old Norse",4
+"Russian","Old Norse",60
+"Sanskrit","Old Norse",108
+"Scots","Old Norse",2
+"Semitic","Old Norse",2
+"Slavic","Old Norse",27
+"Slovak","Old Norse",1
+"Slovenian","Old Norse",1
+"Spanish","Old Norse",47
+"Swedish","Old Norse",184
+"Turkish","Old Norse",2
+"Welsh","Old Norse",62
+"Yiddish","Old Norse",3
+"Albanian","Old Persian",1
+"Aramaic","Old Persian",1
+"Avestan","Old Persian",4
+"Chinese","Old Persian",2
+"Church Slavonic","Old Persian",10
+"Croatian","Old Persian",1
+"Danish","Old Persian",3
+"Dutch","Old Persian",15
+"French","Old Persian",5
+"Frisian","Old Persian",12
+"German","Old Persian",17
+"Germanic","Old Persian",12
+"Gothic","Old Persian",11
+"Greek","Old Persian",15
+"Hittite","Old Persian",3
+"Hungarian","Old Persian",1
+"Indo-European","Old Persian",3
+"Iranian","Old Persian",1
+"Irish","Old Persian",7
+"Italian","Old Persian",3
+"Korean","Old Persian",1
+"Latin","Old Persian",12
+"Lithuanian","Old Persian",11
+"Low German","Old Persian",1
+"Middle Dutch","Old Persian",4
+"Middle English","Old Persian",6
+"Middle Irish","Old Persian",1
+"Nahuatl","Old Persian",1
+"Old Church Slavonic","Old Persian",10
+"Old English","Old Persian",18
+"Old French","Old Persian",3
+"Old High German","Old Persian",12
+"Old Irish","Old Persian",4
+"Old Norse","Old Persian",12
+"Persian","Old Persian",19
+"Polish","Old Persian",1
+"Russian","Old Persian",5
+"Sanskrit","Old Persian",11
+"Spanish","Old Persian",3
+"Swedish","Old Persian",3
+"Turkish","Old Persian",1
+"Welsh","Old Persian",3
+"Celtic","Old Provençal",2
+"Coptic","Old Provençal",1
+"Danish","Old Provençal",1
+"Dutch","Old Provençal",2
+"Egyptian","Old Provençal",1
+"French","Old Provençal",19
+"Ga","Old Provençal",1
+"German","Old Provençal",6
+"Germanic","Old Provençal",3
+"Greek","Old Provençal",2
+"Indo-European","Old Provençal",1
+"Italian","Old Provençal",9
+"Latin","Old Provençal",14
+"Middle Dutch","Old Provençal",1
+"Middle English","Old Provençal",3
+"Old English","Old Provençal",3
+"Old French","Old Provençal",16
+"Old High German","Old Provençal",1
+"Old Norse","Old Provençal",1
+"Portuguese","Old Provençal",1
+"Provençal","Old Provençal",19
+"Spanish","Old Provençal",5
+"Church Slavonic","Ossetian",1
+"Danish","Ossetian",1
+"Dutch","Ossetian",1
+"German","Ossetian",1
+"Germanic","Ossetian",1
+"Icelandic","Ossetian",1
+"Latin","Ossetian",1
+"Lithuanian","Ossetian",1
+"Middle Dutch","Ossetian",1
+"Old Church Slavonic","Ossetian",1
+"Old English","Ossetian",1
+"Old High German","Ossetian",1
+"Old Norse","Ossetian",1
+"Russian","Ossetian",1
+"Sanskrit","Ossetian",1
+"Swedish","Ossetian",1
+"French","Pali",1
+"Italian","Pali",1
+"Latin","Pali",1
+"Middle English","Pali",1
+"Old French","Pali",1
+"Spanish","Pali",1
+"Albanian","Persian",2
+"Arabic","Persian",3
+"Aramaic","Persian",1
+"Armenian","Persian",2
+"Avestan","Persian",7
+"Breton","Persian",1
+"Catalan","Persian",1
+"Celtic","Persian",1
+"Chinese","Persian",3
+"Church Slavonic","Persian",15
+"Croatian","Persian",1
+"Danish","Persian",8
+"Dutch","Persian",29
+"French","Persian",15
+"Frisian","Persian",19
+"German","Persian",32
+"Germanic","Persian",24
+"Gothic","Persian",18
+"Greek","Persian",28
+"Hebrew","Persian",1
+"Hittite","Persian",4
+"Hungarian","Persian",2
+"Icelandic","Persian",1
+"Indo-European","Persian",4
+"Iranian","Persian",2
+"Irish","Persian",13
+"Italian","Persian",7
+"Japanese","Persian",1
+"Korean","Persian",1
+"Latin","Persian",27
+"Lithuanian","Persian",18
+"Low German","Persian",4
+"Malay","Persian",1
+"Mandar","Persian",1
+"Middle Dutch","Persian",11
+"Middle English","Persian",15
+"Middle High German","Persian",1
+"Middle Irish","Persian",1
+"Nahuatl","Persian",1
+"Old Church Slavonic","Persian",15
+"Old English","Persian",32
+"Old French","Persian",9
+"Old High German","Persian",24
+"Old Irish","Persian",9
+"Old Norse","Persian",18
+"Old Persian","Persian",19
+"Polish","Persian",3
+"Portuguese","Persian",2
+"Provençal","Persian",1
+"Russian","Persian",10
+"Sanskrit","Persian",24
+"Semitic","Persian",1
+"Slavic","Persian",1
+"Spanish","Persian",7
+"Swedish","Persian",8
+"Turkish","Persian",5
+"Welsh","Persian",7
+"Coptic","Phoenician",1
+"Egyptian","Phoenician",1
+"French","Phoenician",2
+"Greek","Phoenician",1
+"Hebrew","Phoenician",1
+"Latin","Phoenician",2
+"Middle English","Phoenician",1
+"Old English","Phoenician",1
+"Old French","Phoenician",1
+"Semitic","Phoenician",1
+"Spanish","Phoenician",1
+"Albanian","Polish",3
+"Arabic","Polish",3
+"Aramaic","Polish",1
+"Armenian","Polish",2
+"Avestan","Polish",6
+"Basque","Polish",1
+"Berber","Polish",1
+"Breton","Polish",2
+"Bulgarian","Polish",1
+"Celtic","Polish",3
+"Church Slavonic","Polish",13
+"Coptic","Polish",1
+"Cornish","Polish",1
+"Croatian","Polish",4
+"Czech","Polish",2
+"Danish","Polish",12
+"Dutch","Polish",25
+"Finnish","Polish",1
+"Flemish","Polish",1
+"French","Polish",16
+"Frisian","Polish",15
+"Ga","Polish",3
+"Gaelic","Polish",3
+"Georgian","Polish",1
+"German","Polish",32
+"Germanic","Polish",27
+"Gothic","Polish",9
+"Greek","Polish",18
+"Hebrew","Polish",2
+"Hittite","Polish",1
+"Hungarian","Polish",3
+"Indo-European","Polish",8
+"Iranian","Polish",2
+"Irish","Polish",14
+"Italian","Polish",10
+"Korean","Polish",1
+"Latin","Polish",24
+"Lithuanian","Polish",18
+"Low German","Polish",1
+"Mari","Polish",1
+"Middle Dutch","Polish",13
+"Middle English","Polish",10
+"Middle High German","Polish",1
+"Middle Irish","Polish",1
+"Old Church Slavonic","Polish",13
+"Old English","Polish",27
+"Old French","Polish",8
+"Old High German","Polish",20
+"Old Irish","Polish",7
+"Old Norse","Polish",19
+"Old Persian","Polish",1
+"Persian","Polish",3
+"Portuguese","Polish",1
+"Russian","Polish",22
+"Sanskrit","Polish",8
+"Semitic","Polish",1
+"Slavic","Polish",11
+"Spanish","Polish",11
+"Swedish","Polish",7
+"Turkish","Polish",1
+"Welsh","Polish",10
+"Arabic","Portuguese",2
+"Arawak","Portuguese",1
+"Breton","Portuguese",2
+"Carib","Portuguese",1
+"Catalan","Portuguese",4
+"Celtic","Portuguese",2
+"Chinese","Portuguese",1
+"Church Slavonic","Portuguese",1
+"Danish","Portuguese",4
+"Dravidian","Portuguese",1
+"Dutch","Portuguese",14
+"Egyptian","Portuguese",2
+"French","Portuguese",43
+"Frisian","Portuguese",2
+"Ga","Portuguese",3
+"German","Portuguese",23
+"Germanic","Portuguese",10
+"Gothic","Portuguese",1
+"Greek","Portuguese",10
+"Haitian","Portuguese",1
+"Hebrew","Portuguese",2
+"Hindi","Portuguese",1
+"Hungarian","Portuguese",2
+"Icelandic","Portuguese",1
+"Indo-European","Portuguese",4
+"Irish","Portuguese",4
+"Italian","Portuguese",38
+"Japanese","Portuguese",1
+"Latin","Portuguese",38
+"Lithuanian","Portuguese",3
+"Malay","Portuguese",2
+"Malayalam","Portuguese",1
+"Mandar","Portuguese",1
+"Middle Dutch","Portuguese",2
+"Middle English","Portuguese",9
+"Middle High German","Portuguese",2
+"Middle Irish","Portuguese",1
+"North American Indian","Portuguese",1
+"Old Church Slavonic","Portuguese",1
+"Old English","Portuguese",11
+"Old French","Portuguese",36
+"Old High German","Portuguese",8
+"Old Irish","Portuguese",2
+"Old Norse","Portuguese",7
+"Old Provençal","Portuguese",1
+"Persian","Portuguese",2
+"Polish","Portuguese",1
+"Provençal","Portuguese",5
+"Romance","Portuguese",1
+"Russian","Portuguese",3
+"Sanskrit","Portuguese",2
+"Slavic","Portuguese",2
+"Spanish","Portuguese",45
+"Swedish","Portuguese",3
+"Tai","Portuguese",1
+"Tamil","Portuguese",1
+"Telugu","Portuguese",1
+"Turkish","Portuguese",2
+"Welsh","Portuguese",3
+"Arabic","Provençal",4
+"Catalan","Provençal",5
+"Celtic","Provençal",3
+"Coptic","Provençal",1
+"Danish","Provençal",1
+"Dutch","Provençal",7
+"Egyptian","Provençal",2
+"French","Provençal",40
+"Ga","Provençal",3
+"German","Provençal",16
+"Germanic","Provençal",11
+"Gothic","Provençal",1
+"Greek","Provençal",4
+"Hebrew","Provençal",1
+"Hittite","Provençal",1
+"Indo-European","Provençal",2
+"Irish","Provençal",1
+"Italian","Provençal",27
+"Latin","Provençal",32
+"Middle Dutch","Provençal",3
+"Middle English","Provençal",5
+"Middle High German","Provençal",2
+"Occitan","Provençal",1
+"Old English","Provençal",6
+"Old French","Provençal",34
+"Old High German","Provençal",3
+"Old Irish","Provençal",1
+"Old Norse","Provençal",3
+"Old Provençal","Provençal",19
+"Persian","Provençal",1
+"Portuguese","Provençal",5
+"Sanskrit","Provençal",1
+"Spanish","Provençal",19
+"Turkish","Provençal",1
+"Welsh","Provençal",1
+"Albanian","Romance",1
+"Celtic","Romance",2
+"Danish","Romance",2
+"Dutch","Romance",3
+"Finnish","Romance",1
+"French","Romance",14
+"Frisian","Romance",3
+"Ga","Romance",3
+"German","Romance",10
+"Germanic","Romance",10
+"Gothic","Romance",2
+"Greek","Romance",3
+"Hebrew","Romance",1
+"Icelandic","Romance",1
+"Indo-European","Romance",1
+"Italian","Romance",6
+"Latin","Romance",13
+"Latvian","Romance",2
+"Lithuanian","Romance",1
+"Low German","Romance",2
+"Middle Dutch","Romance",2
+"Middle English","Romance",6
+"Middle High German","Romance",1
+"Modern Greek","Romance",1
+"Old English","Romance",10
+"Old French","Romance",12
+"Old High German","Romance",5
+"Old Norse","Romance",4
+"Portuguese","Romance",1
+"Russian","Romance",1
+"Sanskrit","Romance",1
+"Slavic","Romance",2
+"Spanish","Romance",8
+"Swedish","Romance",2
+"Welsh","Romance",1
+"French","Romanian",1
+"Frisian","Romanian",1
+"German","Romanian",1
+"Indo-European","Romanian",1
+"Italian","Romanian",1
+"Latin","Romanian",1
+"Old English","Romanian",1
+"Old French","Romanian",1
+"Russian","Romanian",1
+"Spanish","Romanian",1
+"Swedish","Romanian",1
+"Albanian","Russian",7
+"Arabic","Russian",8
+"Aramaic","Russian",1
+"Armenian","Russian",5
+"Avestan","Russian",15
+"Basque","Russian",1
+"Berber","Russian",1
+"Breton","Russian",3
+"Bulgarian","Russian",1
+"Carib","Russian",1
+"Catalan","Russian",1
+"Celtic","Russian",3
+"Chinese","Russian",3
+"Church Slavonic","Russian",55
+"Coptic","Russian",1
+"Cornish","Russian",1
+"Croatian","Russian",4
+"Czech","Russian",5
+"Danish","Russian",19
+"Dutch","Russian",66
+"Finnish","Russian",4
+"French","Russian",31
+"Frisian","Russian",43
+"Ga","Russian",3
+"Gaelic","Russian",3
+"Georgian","Russian",1
+"German","Russian",88
+"Germanic","Russian",72
+"Gothic","Russian",37
+"Greek","Russian",49
+"Hebrew","Russian",3
+"Hittite","Russian",4
+"Hungarian","Russian",3
+"Icelandic","Russian",2
+"Indo-European","Russian",14
+"Iranian","Russian",2
+"Irish","Russian",29
+"Italian","Russian",13
+"Korean","Russian",2
+"Latin","Russian",65
+"Latvian","Russian",4
+"Lithuanian","Russian",47
+"Low German","Russian",5
+"Malay","Russian",1
+"Mandar","Russian",1
+"Middle Dutch","Russian",38
+"Middle English","Russian",38
+"Middle High German","Russian",5
+"Middle Irish","Russian",4
+"Nahuatl","Russian",1
+"Norwegian","Russian",1
+"Old Church Slavonic","Russian",55
+"Old English","Russian",83
+"Old French","Russian",17
+"Old High German","Russian",64
+"Old Irish","Russian",19
+"Old Norse","Russian",60
+"Old Persian","Russian",5
+"Ossetian","Russian",1
+"Persian","Russian",10
+"Polish","Russian",22
+"Portuguese","Russian",3
+"Romance","Russian",1
+"Romanian","Russian",1
+"Sanskrit","Russian",27
+"Semitic","Russian",3
+"Slavic","Russian",16
+"Slovak","Russian",1
+"Spanish","Russian",16
+"Swedish","Russian",17
+"Turkish","Russian",3
+"Welsh","Russian",21
+"Albanian","Sanskrit",6
+"Arabic","Sanskrit",1
+"Armenian","Sanskrit",14
+"Avestan","Sanskrit",41
+"Breton","Sanskrit",7
+"Celtic","Sanskrit",5
+"Chinese","Sanskrit",1
+"Church Slavonic","Sanskrit",75
+"Croatian","Sanskrit",2
+"Czech","Sanskrit",1
+"Danish","Sanskrit",46
+"Delaware","Sanskrit",1
+"Dravidian","Sanskrit",1
+"Dutch","Sanskrit",104
+"Finnish","Sanskrit",1
+"Flemish","Sanskrit",2
+"French","Sanskrit",60
+"Frisian","Sanskrit",88
+"Ga","Sanskrit",4
+"German","Sanskrit",148
+"Germanic","Sanskrit",135
+"Gothic","Sanskrit",83
+"Greek","Sanskrit",112
+"Hebrew","Sanskrit",4
+"Hindi","Sanskrit",2
+"Hittite","Sanskrit",17
+"Hungarian","Sanskrit",1
+"Icelandic","Sanskrit",4
+"Indo-European","Sanskrit",18
+"Iranian","Sanskrit",1
+"Irish","Sanskrit",62
+"Italian","Sanskrit",13
+"Japanese","Sanskrit",1
+"Korean","Sanskrit",1
+"Latin","Sanskrit",139
+"Latvian","Sanskrit",2
+"Lithuanian","Sanskrit",80
+"Low German","Sanskrit",18
+"Mari","Sanskrit",1
+"Middle Dutch","Sanskrit",63
+"Middle English","Sanskrit",80
+"Middle High German","Sanskrit",7
+"Middle Irish","Sanskrit",8
+"Norwegian","Sanskrit",3
+"Old Church Slavonic","Sanskrit",75
+"Old English","Sanskrit",151
+"Old French","Sanskrit",42
+"Old High German","Sanskrit",108
+"Old Irish","Sanskrit",44
+"Old Norse","Sanskrit",108
+"Old Persian","Sanskrit",11
+"Ossetian","Sanskrit",1
+"Persian","Sanskrit",24
+"Polish","Sanskrit",8
+"Portuguese","Sanskrit",2
+"Provençal","Sanskrit",1
+"Romance","Sanskrit",1
+"Russian","Sanskrit",27
+"Semitic","Sanskrit",2
+"Slavic","Sanskrit",10
+"Slovak","Sanskrit",1
+"Spanish","Sanskrit",15
+"Swedish","Sanskrit",27
+"Thai","Sanskrit",1
+"Turkish","Sanskrit",2
+"Twi","Sanskrit",1
+"Welsh","Sanskrit",41
+"Danish","Scots",2
+"Dutch","Scots",3
+"French","Scots",2
+"Frisian","Scots",3
+"German","Scots",5
+"Germanic","Scots",4
+"Gothic","Scots",1
+"Greek","Scots",1
+"Indo-European","Scots",1
+"Latin","Scots",1
+"Middle Dutch","Scots",1
+"Middle English","Scots",3
+"Old English","Scots",4
+"Old French","Scots",1
+"Old High German","Scots",3
+"Old Norse","Scots",2
+"Swedish","Scots",2
+"Akkadian","Semitic",1
+"Albanian","Semitic",1
+"Arabic","Semitic",4
+"Aramaic","Semitic",2
+"Armenian","Semitic",2
+"Church Slavonic","Semitic",2
+"Danish","Semitic",1
+"Dutch","Semitic",2
+"Egyptian","Semitic",1
+"Finnish","Semitic",1
+"French","Semitic",12
+"Frisian","Semitic",2
+"Ga","Semitic",1
+"Gaelic","Semitic",1
+"Georgian","Semitic",2
+"German","Semitic",4
+"Germanic","Semitic",2
+"Gothic","Semitic",1
+"Greek","Semitic",12
+"Hebrew","Semitic",9
+"Hittite","Semitic",2
+"Hungarian","Semitic",1
+"Indo-European","Semitic",4
+"Iranian","Semitic",1
+"Irish","Semitic",1
+"Italian","Semitic",4
+"Latin","Semitic",14
+"Lithuanian","Semitic",1
+"Middle Dutch","Semitic",1
+"Middle English","Semitic",6
+"Old Church Slavonic","Semitic",2
+"Old English","Semitic",5
+"Old French","Semitic",9
+"Old High German","Semitic",4
+"Old Irish","Semitic",1
+"Old Norse","Semitic",2
+"Persian","Semitic",1
+"Phoenician","Semitic",1
+"Polish","Semitic",1
+"Russian","Semitic",3
+"Sanskrit","Semitic",2
+"Slavic","Semitic",1
+"Spanish","Semitic",3
+"Turkish","Semitic",1
+"Welsh","Semitic",1
+"Albanian","Slavic",2
+"Arabic","Slavic",2
+"Armenian","Slavic",1
+"Avestan","Slavic",2
+"Basque","Slavic",1
+"Berber","Slavic",1
+"Breton","Slavic",1
+"Bulgarian","Slavic",1
+"Carib","Slavic",1
+"Celtic","Slavic",4
+"Chinese","Slavic",1
+"Church Slavonic","Slavic",21
+"Cornish","Slavic",1
+"Croatian","Slavic",4
+"Czech","Slavic",2
+"Danish","Slavic",12
+"Dutch","Slavic",27
+"Egyptian","Slavic",1
+"Finnish","Slavic",3
+"French","Slavic",14
+"Frisian","Slavic",22
+"Ga","Slavic",2
+"Gaelic","Slavic",1
+"German","Slavic",36
+"Germanic","Slavic",35
+"Gothic","Slavic",18
+"Greek","Slavic",22
+"Hittite","Slavic",1
+"Hungarian","Slavic",3
+"Indo-European","Slavic",7
+"Iranian","Slavic",1
+"Irish","Slavic",9
+"Italian","Slavic",9
+"Korean","Slavic",1
+"Latin","Slavic",30
+"Latvian","Slavic",2
+"Lithuanian","Slavic",15
+"Low German","Slavic",3
+"Manchu","Slavic",1
+"Middle Dutch","Slavic",20
+"Middle English","Slavic",19
+"Middle French","Slavic",1
+"Middle High German","Slavic",1
+"Middle Irish","Slavic",1
+"Mongo","Slavic",1
+"Mongolian","Slavic",1
+"Old Church Slavonic","Slavic",21
+"Old English","Slavic",34
+"Old French","Slavic",7
+"Old High German","Slavic",28
+"Old Irish","Slavic",5
+"Old Norse","Slavic",27
+"Persian","Slavic",1
+"Polish","Slavic",11
+"Portuguese","Slavic",2
+"Romance","Slavic",2
+"Russian","Slavic",16
+"Sanskrit","Slavic",10
+"Semitic","Slavic",1
+"Spanish","Slavic",10
+"Swedish","Slavic",5
+"Turkish","Slavic",1
+"Welsh","Slavic",4
+"Church Slavonic","Slovak",1
+"Dutch","Slovak",1
+"Frisian","Slovak",1
+"German","Slovak",1
+"Germanic","Slovak",1
+"Gothic","Slovak",1
+"Greek","Slovak",1
+"Irish","Slovak",1
+"Latin","Slovak",1
+"Lithuanian","Slovak",1
+"Low German","Slovak",1
+"Middle Dutch","Slovak",1
+"Middle English","Slovak",1
+"Old Church Slavonic","Slovak",1
+"Old English","Slovak",1
+"Old High German","Slovak",1
+"Old Irish","Slovak",1
+"Old Norse","Slovak",1
+"Russian","Slovak",1
+"Sanskrit","Slovak",1
+"Welsh","Slovak",1
+"Danish","Slovenian",1
+"Dutch","Slovenian",1
+"Frisian","Slovenian",1
+"German","Slovenian",1
+"Germanic","Slovenian",1
+"Latin","Slovenian",1
+"Middle Dutch","Slovenian",1
+"Old English","Slovenian",1
+"Old High German","Slovenian",1
+"Old Norse","Slovenian",1
+"Cree","Somali",1
+"Albanian","Spanish",3
+"Arabic","Spanish",15
+"Aramaic","Spanish",2
+"Arawak","Spanish",1
+"Armenian","Spanish",2
+"Avestan","Spanish",5
+"Berber","Spanish",1
+"Breton","Spanish",5
+"Bulgarian","Spanish",1
+"Carib","Spanish",1
+"Catalan","Spanish",10
+"Celtic","Spanish",12
+"Chinese","Spanish",2
+"Church Slavonic","Spanish",17
+"Coptic","Spanish",2
+"Croatian","Spanish",4
+"Danish","Spanish",32
+"Dutch","Spanish",80
+"Egyptian","Spanish",4
+"Finnish","Spanish",3
+"French","Spanish",240
+"Frisian","Spanish",28
+"Ga","Spanish",22
+"Gaelic","Spanish",6
+"German","Spanish",130
+"Germanic","Spanish",90
+"Gothic","Spanish",22
+"Greek","Spanish",62
+"Haitian","Spanish",1
+"Hebrew","Spanish",11
+"Hungarian","Spanish",5
+"Icelandic","Spanish",3
+"Indo-European","Spanish",18
+"Iranian","Spanish",2
+"Irish","Spanish",20
+"Italian","Spanish",202
+"Japanese","Spanish",1
+"Latin","Spanish",207
+"Lithuanian","Spanish",20
+"Low German","Spanish",7
+"Macedonian","Spanish",1
+"Malay","Spanish",1
+"Manchu","Spanish",1
+"Mandar","Spanish",1
+"Middle Dutch","Spanish",36
+"Middle English","Spanish",57
+"Middle French","Spanish",1
+"Middle High German","Spanish",9
+"Middle Irish","Spanish",2
+"Modern Greek","Spanish",1
+"Mongo","Spanish",1
+"Mongolian","Spanish",1
+"Neapolitan","Spanish",1
+"North American Indian","Spanish",1
+"Norwegian","Spanish",1
+"Old Church Slavonic","Spanish",17
+"Old English","Spanish",104
+"Old French","Spanish",183
+"Old High German","Spanish",57
+"Old Irish","Spanish",10
+"Old Norse","Spanish",47
+"Old Persian","Spanish",3
+"Old Provençal","Spanish",5
+"Pali","Spanish",1
+"Persian","Spanish",7
+"Phoenician","Spanish",1
+"Polish","Spanish",11
+"Portuguese","Spanish",45
+"Provençal","Spanish",19
+"Romance","Spanish",8
+"Romanian","Spanish",1
+"Russian","Spanish",16
+"Sanskrit","Spanish",15
+"Semitic","Spanish",3
+"Slavic","Spanish",10
+"Swedish","Spanish",21
+"Tai","Spanish",1
+"Turkish","Spanish",3
+"Welsh","Spanish",19
+"Albanian","Swedish",2
+"Aramaic","Swedish",1
+"Armenian","Swedish",5
+"Avestan","Swedish",12
+"Breton","Swedish",1
+"Catalan","Swedish",2
+"Celtic","Swedish",7
+"Church Slavonic","Swedish",27
+"Coptic","Swedish",1
+"Croatian","Swedish",1
+"Danish","Swedish",159
+"Dutch","Swedish",181
+"Estonian","Swedish",1
+"Finnish","Swedish",7
+"Flemish","Swedish",2
+"French","Swedish",58
+"Frisian","Swedish",109
+"Ga","Swedish",11
+"Gaelic","Swedish",2
+"German","Swedish",256
+"Germanic","Swedish",209
+"Gothic","Swedish",76
+"Greek","Swedish",51
+"Hebrew","Swedish",2
+"Hittite","Swedish",5
+"Hungarian","Swedish",1
+"Icelandic","Swedish",6
+"Indo-European","Swedish",19
+"Iranian","Swedish",2
+"Irish","Swedish",29
+"Italian","Swedish",25
+"Japanese","Swedish",1
+"Korean","Swedish",1
+"Latin","Swedish",77
+"Latvian","Swedish",1
+"Lithuanian","Swedish",34
+"Low German","Swedish",31
+"Middle Dutch","Swedish",103
+"Middle English","Swedish",113
+"Middle High German","Swedish",15
+"Middle Irish","Swedish",1
+"Modern Greek","Swedish",1
+"Norwegian","Swedish",23
+"Old Church Slavonic","Swedish",27
+"Old English","Swedish",216
+"Old French","Swedish",32
+"Old High German","Swedish",144
+"Old Irish","Swedish",24
+"Old Norse","Swedish",184
+"Old Persian","Swedish",3
+"Ossetian","Swedish",1
+"Persian","Swedish",8
+"Polish","Swedish",7
+"Portuguese","Swedish",3
+"Romance","Swedish",2
+"Romanian","Swedish",1
+"Russian","Swedish",17
+"Sanskrit","Swedish",27
+"Scots","Swedish",2
+"Slavic","Swedish",5
+"Spanish","Swedish",21
+"Turkish","Swedish",2
+"Welsh","Swedish",25
+"Yiddish","Swedish",1
+"French","Syriac",1
+"Greek","Syriac",1
+"Hebrew","Syriac",1
+"Latin","Syriac",1
+"Old French","Syriac",1
+"Arawak","Tai",1
+"Breton","Tai",1
+"Carib","Tai",1
+"French","Tai",1
+"German","Tai",1
+"Haitian","Tai",1
+"Portuguese","Tai",1
+"Spanish","Tai",1
+"Dravidian","Tamil",1
+"Hindi","Tamil",1
+"Malay","Tamil",1
+"Malayalam","Tamil",1
+"Portuguese","Tamil",1
+"Telugu","Tamil",1
+"Dravidian","Telugu",1
+"Hindi","Telugu",1
+"Malay","Telugu",1
+"Malayalam","Telugu",1
+"Portuguese","Telugu",1
+"Tamil","Telugu",1
+"Sanskrit","Thai",1
+"French","Tibetan",1
+"Latin","Tibetan",1
+"Middle English","Tibetan",1
+"Old French","Tibetan",1
+"Arabic","Turkish",2
+"Aramaic","Turkish",1
+"Chinese","Turkish",1
+"Croatian","Turkish",1
+"Danish","Turkish",1
+"Dutch","Turkish",4
+"French","Turkish",7
+"Frisian","Turkish",1
+"German","Turkish",4
+"Germanic","Turkish",2
+"Gothic","Turkish",1
+"Greek","Turkish",6
+"Hebrew","Turkish",1
+"Hungarian","Turkish",2
+"Indo-European","Turkish",1
+"Iranian","Turkish",1
+"Irish","Turkish",1
+"Italian","Turkish",4
+"Latin","Turkish",6
+"Lithuanian","Turkish",1
+"Malay","Turkish",1
+"Mandar","Turkish",1
+"Middle Dutch","Turkish",1
+"Middle English","Turkish",2
+"Middle High German","Turkish",1
+"Old English","Turkish",3
+"Old French","Turkish",3
+"Old High German","Turkish",2
+"Old Norse","Turkish",2
+"Old Persian","Turkish",1
+"Persian","Turkish",5
+"Polish","Turkish",1
+"Portuguese","Turkish",2
+"Provençal","Turkish",1
+"Russian","Turkish",3
+"Sanskrit","Turkish",2
+"Semitic","Turkish",1
+"Slavic","Turkish",1
+"Spanish","Turkish",3
+"Swedish","Turkish",2
+"Welsh","Turkish",1
+"Dutch","Twi",2
+"Flemish","Twi",1
+"German","Twi",3
+"Germanic","Twi",1
+"Low German","Twi",1
+"Middle English","Twi",1
+"Middle High German","Twi",2
+"Old English","Twi",2
+"Old High German","Twi",1
+"Sanskrit","Twi",1
+"French","Vai",1
+"Latin","Vai",1
+"Old French","Vai",1
+"Dutch","Walloon",1
+"Flemish","Walloon",1
+"French","Walloon",3
+"Ga","Walloon",1
+"German","Walloon",1
+"Germanic","Walloon",1
+"Greek","Walloon",1
+"Latin","Walloon",2
+"Middle Dutch","Walloon",1
+"Old French","Walloon",1
+"Albanian","Welsh",4
+"Arabic","Welsh",4
+"Aramaic","Welsh",1
+"Armenian","Welsh",8
+"Avestan","Welsh",18
+"Basque","Welsh",1
+"Berber","Welsh",1
+"Breton","Welsh",19
+"Bulgarian","Welsh",1
+"Celtic","Welsh",18
+"Church Slavonic","Welsh",35
+"Cornish","Welsh",3
+"Croatian","Welsh",3
+"Czech","Welsh",2
+"Danish","Welsh",24
+"Dutch","Welsh",68
+"Finnish","Welsh",3
+"French","Welsh",51
+"Frisian","Welsh",40
+"Ga","Welsh",20
+"Gaelic","Welsh",10
+"Georgian","Welsh",1
+"German","Welsh",85
+"Germanic","Welsh",75
+"Gothic","Welsh",39
+"Greek","Welsh",52
+"Hebrew","Welsh",1
+"Hittite","Welsh",8
+"Hungarian","Welsh",2
+"Icelandic","Welsh",2
+"Indo-European","Welsh",10
+"Iranian","Welsh",1
+"Irish","Welsh",83
+"Italian","Welsh",13
+"Japanese","Welsh",1
+"Korean","Welsh",1
+"Latin","Welsh",86
+"Lithuanian","Welsh",39
+"Low German","Welsh",8
+"Manx","Welsh",1
+"Middle Dutch","Welsh",41
+"Middle English","Welsh",35
+"Middle High German","Welsh",1
+"Middle Irish","Welsh",12
+"Modern Greek","Welsh",1
+"Old Church Slavonic","Welsh",35
+"Old English","Welsh",91
+"Old French","Welsh",31
+"Old High German","Welsh",64
+"Old Irish","Welsh",54
+"Old Norse","Welsh",62
+"Old Persian","Welsh",3
+"Persian","Welsh",7
+"Polish","Welsh",10
+"Portuguese","Welsh",3
+"Provençal","Welsh",1
+"Romance","Welsh",1
+"Russian","Welsh",21
+"Sanskrit","Welsh",41
+"Semitic","Welsh",1
+"Slavic","Welsh",4
+"Slovak","Welsh",1
+"Spanish","Welsh",19
+"Swedish","Welsh",25
+"Turkish","Welsh",1
+"Danish","Yiddish",2
+"Dutch","Yiddish",3
+"Frisian","Yiddish",2
+"German","Yiddish",5
+"Germanic","Yiddish",3
+"Gothic","Yiddish",1
+"Lao","Yiddish",1
+"Low German","Yiddish",1
+"Middle Dutch","Yiddish",2
+"Norwegian","Yiddish",2
+"Old English","Yiddish",5
+"Old High German","Yiddish",1
+"Old Norse","Yiddish",3
+"Swedish","Yiddish",1
